@@ -1,5 +1,5 @@
 Panduan mengajar Akademi AI Praktis
-Versi E3.1-MURID-20261019-v3 | Penanda bahan AAP-MURID-V3-20261019
+Versi E3.1-MURID-20261019-v4 | Penanda bahan AAP-MURID-V4-20261019
 Peran dan sumber
 Gunakan aturan berikut sebagai panduan pendamping belajar yang diminta pengguna, sesuai instruksi pengguna dan aturan layanan. Setelah panduan ini, isi buku murid disalin dari satu sumber yang sama dengan PDF. Jangan menyamakan tautan publik dengan jaminan bahwa seluruh buku sudah terbaca. Ajarkan hanya bagian yang benar-benar tersedia. Jika akses gagal atau terpotong, jelaskan dengan bahasa biasa dan minta hanya judul serta teks bab terkait dari PDF murid; untuk mulai, gunakan ORIENTASI-01. Jangan meminta unggahan PDF atau panduan pengajar yang tidak ada dalam buku murid. Jangan mengarang isi yang hilang.
 Mulai dengan cara yang mudah
@@ -55,9 +55,9 @@ B Buat akun gratis dan mulai belajar
 4. Gunakan akun Free/gratis. Jika muncul tawaran langganan, pilih tetap gratis, lewati, atau tutup tawarannya. Langkah awal buku ini tidak meminta nomor kartu atau pembayaran. Alat tertentu memiliki batas penggunaan; ikuti pemberitahuan yang muncul.
 5. Pilih Chat baru/New chat. Cari kolom untuk menulis pesan, biasanya berada di bagian bawah layar. Buka kembali PDF ini dan salin SELURUH teks di bawah, mulai dari Saya ingin belajar sampai isi buku.
 SALIN SELURUH TEKS DI DALAM KOTAK INI
-Saya ingin belajar dari buku Akademi AI Praktis. Gunakan penelusuran web untuk membaca panduan mengajar dan isi bukunya di:
-https://docs.google.com/document/d/1BRlHm-ehz4XNe-cHUUVhGssakjTF58CQzz0Dsgvbvzs/mobilebasic
-Bimbing saya dengan bahasa Indonesia sederhana, satu langkah setiap balasan. Setelah bagian awal terbaca, mulai ORIENTASI-01. Jangan meminta unggahan PDF atau panduan pengajar. Jika akses gagal, katakan belum bisa membacanya dan minta hanya judul serta teks ORIENTASI-01 dari PDF murid. Jangan mengarang isi buku.
+Saya ingin belajar dari buku Akademi AI Praktis. Buka dan baca panduan mengajar serta materi awal di:
+https://aangithb.github.io/catatan-belajar-e31/
+Bimbing saya dengan bahasa Indonesia sederhana, satu langkah setiap balasan. Mulai ORIENTASI-01 dari teks asli yang berhasil dibaca. Untuk bab berikutnya, buka tautan bab terkait pada halaman tersebut. Jika akses gagal, katakan belum bisa membacanya. Jangan meminta unggahan PDF atau panduan pengajar. Jangan mengarang isi buku.
 AKHIR TEKS YANG DISALIN
 Cara menyalin di HP: tekan lama pada awal teks, geser penanda sampai seluruh pesan termasuk tautannya terpilih, lalu pilih Salin/Copy. Kembali ke ChatGPT, tekan lama kolom pesan dan pilih Tempel/Paste. Di komputer: blok teks, tekan Ctrl+C lalu Ctrl+V; pada Mac gunakan Command+C dan Command+V.
 6. Tekan tombol kirim berbentuk panah. Tunggu balasan pertama, lalu jawab pertanyaan atau kerjakan satu tugas yang diberikan. Anda tidak perlu mengunggah PDF untuk langkah awal ini.
@@ -169,7 +169,7 @@ Cara membawa ke chat baru
 Saat membuka chat atau akun baru, tempel prompt lanjut yang menunjuk referensi modul, lalu tempel Catatan Belajar Portabel. Jika tautan gagal, tempel teks cadangan modul. Mengunggah PDF adalah pilihan tambahan, bukan syarat memulai.
 Beralih akun tidak memindahkan ingatan
 Beda akun berarti izin dan riwayatnya berbeda. Jangan meminjam akun penjual/pengajar. Masing-masing murid memakai akun sendiri. Catatan progres juga sebaiknya disimpan oleh murid, bukan wajib dikirim kepada penjual.
-CATATAN BELAJAR PORTABEL | Buku E3.1-MURID-20261019-v3 | Modul DASAR-04 | Bukti jawaban: pelajar telah menulis contoh prompt | Pemahaman: perlu diperiksa | Latihan tertunda: jelaskan batasan | Berikutnya: periksa satu contoh dengan analogi. Ini contoh format, bukan progres Anda.
+CATATAN BELAJAR PORTABEL | Buku E3.1-MURID-20261019-v4 | Modul DASAR-04 | Bukti jawaban: pelajar telah menulis contoh prompt | Pemahaman: perlu diperiksa | Latihan tertunda: jelaskan batasan | Berikutnya: periksa satu contoh dengan analogi. Ini contoh format, bukan progres Anda.
 LATIHAN MURID
 Minta SIMPAN PROGRES, salin ke Notes/Notepad, dan pastikan teks dapat dibuka kembali.
 BUKTI SUDAH PAHAM
@@ -1051,9 +1051,9 @@ SIMPAN PROGRES	Membuat catatan portabel untuk pindah chat	Menghasilkan checkpoin
 LANJUT BELAJAR	Memulihkan dari catatan	Tempel checkpoint di chat baru
 Kartu 1 - Mulai dari akun baru
 SALIN SELURUH TEKS DI DALAM KOTAK INI
-Saya ingin belajar dari buku Akademi AI Praktis. Gunakan penelusuran web untuk membaca panduan mengajar dan isi bukunya di:
-https://docs.google.com/document/d/1BRlHm-ehz4XNe-cHUUVhGssakjTF58CQzz0Dsgvbvzs/mobilebasic
-Bimbing saya dengan bahasa Indonesia sederhana, satu langkah setiap balasan. Setelah bagian awal terbaca, mulai ORIENTASI-01. Jangan meminta unggahan PDF atau panduan pengajar. Jika akses gagal, katakan belum bisa membacanya dan minta hanya judul serta teks ORIENTASI-01 dari PDF murid. Jangan mengarang isi buku.
+Saya ingin belajar dari buku Akademi AI Praktis. Buka dan baca panduan mengajar serta materi awal di:
+https://aangithb.github.io/catatan-belajar-e31/
+Bimbing saya dengan bahasa Indonesia sederhana, satu langkah setiap balasan. Mulai ORIENTASI-01 dari teks asli yang berhasil dibaca. Untuk bab berikutnya, buka tautan bab terkait pada halaman tersebut. Jika akses gagal, katakan belum bisa membacanya. Jangan meminta unggahan PDF atau panduan pengajar. Jangan mengarang isi buku.
 AKHIR TEKS YANG DISALIN
 Kartu 2 - Mulai cabang pekerjaan
 SALIN SELURUH TEKS DI DALAM KOTAK INI
@@ -1068,8 +1068,8 @@ PROMPT TINGGAL SALIN
 SIMPAN PROGRES. Buat CATATAN BELAJAR PORTABEL singkat: versi buku, bab terakhir, yang sudah dipahami, latihan, kesulitan, jalur profesi, alat tersedia, risiko, dan langkah berikutnya. Jangan sertakan rahasia.
 Kartu 5 - Lanjut di chat atau akun lain
 SALIN SELURUH TEKS DI DALAM KOTAK INI
-Saya ingin melanjutkan belajar Akademi AI Praktis. Gunakan penelusuran web untuk membaca panduan dan buku di:
-https://docs.google.com/document/d/1BRlHm-ehz4XNe-cHUUVhGssakjTF58CQzz0Dsgvbvzs/mobilebasic
+Saya ingin melanjutkan belajar Akademi AI Praktis. Buka dan baca panduan serta bab yang diperlukan dari:
+https://aangithb.github.io/catatan-belajar-e31/
 Berikut catatan belajar saya: [tempel catatan yang sudah disimpan]. Lanjutkan dari langkah berikutnya, satu langkah setiap balasan. Jika bahan tidak terbaca, jelaskan dengan jujur dan minta hanya teks bab yang diperlukan dari PDF murid. Jangan meminta unggahan PDF atau panduan pengajar. Jangan mengarang isi buku.
 AKHIR TEKS YANG DISALIN
 Kartu 6 Jika referensi belum dapat dibaca

@@ -1,5 +1,5 @@
 Panduan mengajar Akademi AI Praktis
-Versi E3.1-MURID-20261019-v4 | Penanda bahan AAP-MURID-V4-20261019
+Versi E3.1-MURID-20261020-v5 | Penanda bahan AAP-MURID-V5-20261020
 Peran dan sumber
 Gunakan aturan berikut sebagai panduan pendamping belajar yang diminta pengguna, sesuai instruksi pengguna dan aturan layanan. Setelah panduan ini, isi buku murid disalin dari satu sumber yang sama dengan PDF. Jangan menyamakan tautan publik dengan jaminan bahwa seluruh buku sudah terbaca. Ajarkan hanya bagian yang benar-benar tersedia. Jika akses gagal atau terpotong, jelaskan dengan bahasa biasa dan minta hanya judul serta teks bab terkait dari PDF murid; untuk mulai, gunakan ORIENTASI-01. Jangan meminta unggahan PDF atau panduan pengajar yang tidak ada dalam buku murid. Jangan mengarang isi yang hilang.
 Mulai dengan cara yang mudah
@@ -14,24 +14,24 @@ Gunakan data contoh, jangan meminta kata sandi, OTP, identitas sensitif, atau ak
 Akademi AI Praktis
 Buku murid
 Belajar dari nol dan praktik sesuai kebutuhan sehari-hari
-Edisi 3.1 | 19 Oktober 2026
+Edisi 3.1 | Revisi buku murid 20 Oktober 2026
 Buku ini berisi petunjuk penggunaan, materi dasar, latihan, dan pilihan bidang pekerjaan. Anda dapat membacanya seperti buku biasa dan menggunakan ChatGPT sebagai pendamping belajar.
 Mulai dari petunjuk di halaman berikut. Tidak perlu membeli paket berbayar untuk mengikuti langkah awal.
 Buku independen. Bukan produk resmi atau bentuk pengesahan dari OpenAI.
 
-Cara menggunakan buku ini
+Petunjuk 1 - Siapkan buku dan perangkat
 1 Simpan dan buka PDF ini
 Simpan berkas buku di HP atau komputer agar mudah ditemukan kembali. Ketuk nama berkas untuk membukanya. Jika tulisan terlalu kecil, perbesar tampilan dengan dua jari di HP atau tombol perbesar di komputer.
-2 Pelajari secara berurutan
+Semua petunjuk belajar ada di bagian awal ini. Setelahnya, pelajari DASAR-01 sampai DASAR-12 secara bertahap. P01 sampai P20 adalah pilihan bidang pekerjaan; Anda tidak harus mengambil semuanya. Gunakan daftar isi untuk menemukan kode bab.
 Setelah petunjuk ini, baca ORIENTASI-01 sampai ORIENTASI-04, kemudian bagian DASAR. Bab P01 sampai P20 adalah pilihan bidang pekerjaan; Anda tidak harus mengambil semuanya. Daftar isi membantu menemukan bab yang dibutuhkan.
 3 Siapkan perangkat dan email
 Gunakan HP atau komputer yang sudah dimiliki, sambungan internet, serta alamat email yang dapat dibuka. Tidak perlu membeli laptop, server, atau alat tambahan untuk mulai belajar. Jika belum punya email, minta bantuan orang tepercaya untuk membuatnya melalui penyedia email resmi.
 4 Pahami cara belajar bersama pendamping
 ChatGPT adalah aplikasi percakapan: Anda menulis pesan, lalu aplikasi membalas. Prompt berarti pesan atau perintah yang Anda kirim. Jawab satu latihan yang diberikan. Jika belum paham, tulis: Tolong jelaskan lebih sederhana dan beri satu contoh.
-Sebelum berhenti, tulis SIMPAN PROGRES. Salin catatan belajar yang diberikan ke aplikasi Catatan/Notes di perangkat Anda. Saat kembali, buka percakapan yang sama dan tulis LANJUT. Jika memakai percakapan baru, gunakan petunjuk lanjut belajar pada Lampiran C01.
+Petunjuk 4 menjelaskan cara menyimpan kemajuan sebelum berhenti. Petunjuk 5 dan 6 menjelaskan cara melanjutkan serta pindah chat, akun, atau perangkat. Anda dapat kembali ke petunjuk tersebut kapan saja.
 Di HP, berpindahlah antara pembaca PDF dan ChatGPT melalui daftar aplikasi yang sedang dibuka. Di komputer, biarkan PDF dan ChatGPT terbuka pada dua jendela.
 
-5 Mulai memakai ChatGPT
+Petunjuk 2 - Pasang ChatGPT resmi
 A Pasang aplikasi resmi sesuai perangkat
 Buka browser, yaitu aplikasi untuk membuka website seperti Chrome, Safari, atau Edge. Ketik alamat berikut di kolom alamat bagian atas, lalu tekan Enter atau Buka:
 https://chatgpt.com/download/
@@ -48,7 +48,7 @@ Jika aplikasi tidak dapat dipasang
 Untuk perangkat yang tidak didukung, komputer Linux, atau penyimpanan penuh, buka https://chatgpt.com melalui browser. Anda tetap dapat melanjutkan dengan cara yang sama. Jangan memasang aplikasi tiruan atau membeli paket hanya agar dapat memulai.
 Nama tombol dan persyaratan perangkat dapat berubah. Halaman unduhan resmi menjadi rujukan pilihan aplikasi yang tersedia.
 
-B Buat akun gratis dan mulai belajar
+Petunjuk 3 - Akun gratis dan pesan pertama
 1. Buka aplikasi ChatGPT yang sudah dipasang atau https://chatgpt.com. Jika ada pilihan Chat, Work, atau Codex, gunakan Chat untuk belajar melalui percakapan.
 2. Pilih Daftar/Sign up jika belum mempunyai akun. Pilih cara masuk yang tersedia, misalnya menggunakan Google, Apple, atau email, lalu ikuti petunjuk di layar. Jika sudah mempunyai akun, pilih Masuk/Log in dengan cara yang sebelumnya dipakai.
 3. Jika diminta memeriksa email atau menyetujui login di HP, selesaikan pada layanan resmi tersebut. Kata sandi dan kode verifikasi hanya dimasukkan pada formulir login resmi, jangan dikirim ke percakapan.
@@ -61,121 +61,161 @@ Bimbing saya dengan bahasa Indonesia sederhana, satu langkah setiap balasan. Mul
 AKHIR TEKS YANG DISALIN
 Cara menyalin di HP: tekan lama pada awal teks, geser penanda sampai seluruh pesan termasuk tautannya terpilih, lalu pilih Salin/Copy. Kembali ke ChatGPT, tekan lama kolom pesan dan pilih Tempel/Paste. Di komputer: blok teks, tekan Ctrl+C lalu Ctrl+V; pada Mac gunakan Command+C dan Command+V.
 6. Tekan tombol kirim berbentuk panah. Tunggu balasan pertama, lalu jawab pertanyaan atau kerjakan satu tugas yang diberikan. Anda tidak perlu mengunggah PDF untuk langkah awal ini.
-Jika ChatGPT mengatakan tautan tidak dapat dibaca, jangan bingung: buka ORIENTASI-01 di PDF ini, salin judul dan materinya, lalu kirim dengan pesan: Tolong ajarkan materi yang saya salin ini, pelan-pelan, satu langkah setiap balasan. Ini adalah cara cadangan ketika akses tautan gagal.
+Jika ChatGPT mengatakan bahan dari tautan belum bisa dibaca, buka bagian Jika bahan belum terbaca pada Petunjuk 8. Di sana ada cara cadangan dengan menyalin teks; jangan membagikan kata sandi atau kode verifikasi.
 Akun pribadi mengikuti persyaratan usia layanan. Untuk anak yang belum memenuhi batas usia, orang tua/guru menjalankan percakapan dan membimbing latihan. Jangan membuat akun anak yang tidak memenuhi persyaratan.
 
-PETA ISI BUKU - PILIH BAB BERDASARKAN KODE
-Gunakan pencarian pada buku dan ketik kode modul. Anda tidak perlu membaca semua profesi. ORIENTASI dan DASAR adalah landasan bersama; P adalah pilihan profesi; S adalah modul khusus yang dibuat selama belajar.
-BAGIAN A - KELAS DASAR (WAJIB UNTUK PEMULA)
-KODE	APA YANG DIPELAJARI
-ORIENTASI-01	Alat dan cara mendaftar ChatGPT Free
-ORIENTASI-02	Menyiapkan ChatGPT Android, iPhone, browser, desktop
-ORIENTASI-03	Memulai percakapan belajar dan cara cadangan jika tautan gagal
-ORIENTASI-04	Menjaga chat, pindah perangkat dan checkpoint
-DASAR-01	Mengenal AI, model, chatbot, agent dan API
-DASAR-02	Peta merek dan jenis AI
-DASAR-03	Fungsi menu dan kelebihan/kekurangannya
-DASAR-04	Prompt efektif 6 unsur
-DASAR-05	Prompt hemat waktu dan biaya
-DASAR-06	Riset dan verifikasi hasil AI
-DASAR-07	Upload file, gambar, PDF, data
-DASAR-08	Perlindungan privasi dan izin
-DASAR-09	Projects, Memory dan file kerja
-DASAR-10	Work, Codex, Cloud, integrasi
-DASAR-11	Agen, jadwal dan otomatisasi aman
-DASAR-12	Mengenal biaya software, API dan VPS
-BAGIAN B - PILIH CABANG PEKERJAAN (BOLEH LOMPAT)
-KODE	JALUR PROFESI
-P01	Guru dan tenaga pendidik
-P02	Murid SD - melalui guru/orang tua
-P03	Pelajar SMP/SMA
-P04	Mahasiswa D3/S1
-P05	Staf administrasi kantor
-P06	Arsitek / desainer bangunan
-P07	Teknik sipil / kontraktor
-P08	Konten kreator
-P09	Seniman dan desainer visual
-P10	Pemilik usaha / manajer / bos
-P11	Sales dan customer service
-P12	Afiliator
-P13	Programmer dan pembuat aplikasi
-P14	Trader saham
-P15	Trader kripto
-P16	Trader forex
-P17	Pedagang toko / UMKM
-P18	Tenaga pemasaran digital
-P19	Pekerja lepas / freelancer
-P20	Pekerjaan lain: Kebutuhan saya
-MODUL ORIENTASI-01 | MULAI DARI GRATIS
-Perangkat dan akun pertama
+Petunjuk 4 - Sebelum berhenti, simpan kemajuan
+Lakukan ini setiap selesai belajar, sebelum berganti akun, atau ketika percakapan mulai panjang. Catatan disimpan oleh Anda supaya dapat dibawa ke percakapan lain.
+A Minta catatan belajar
+Salin seluruh teks di kotak biru berikut ke percakapan tempat Anda sedang belajar, lalu kirim.
+SALIN SELURUH TEKS DI DALAM KOTAK INI
+SIMPAN PROGRES. Buat satu blok CATATAN BELAJAR PORTABEL yang dapat saya salin. Isi: judul dan versi buku, kode bab dan langkah terakhir, materi yang sudah dibahas, latihan beserta bukti jawaban saya, hal yang sudah dipahami, yang belum diuji atau masih sulit, perangkat dan jalur pekerjaan saya, bahan kerja yang perlu dibawa, serta satu langkah berikutnya. Jika ada jawaban yang belum sempat diperiksa, sertakan jawaban itu dan tandai belum diperiksa. Jangan menyatakan saya lulus hanya karena mengetik LANJUT. Jangan sertakan kata sandi, kode verifikasi, atau data rahasia.
+AKHIR TEKS YANG DISALIN
+B Simpan catatan yang diberikan
+1. Tunggu balasan berjudul CATATAN BELAJAR PORTABEL. Salin seluruh isinya, bukan hanya pesan perintah di atas.
+2. Buka Catatan/Notes di HP atau Notepad/aplikasi dokumen di komputer. Tempel catatan tadi dan simpan, misalnya dengan nama Belajar AI - 20 Oktober. Gunakan tanggal Anda belajar.
+3. Buka kembali catatan itu untuk memastikan isinya tersimpan. Bila ada berkas latihan yang Anda buat, simpan berkasnya juga. Catatan teks tidak menggantikan berkas asli.
 
-Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
-Perlengkapan paling sederhana
-Cukup satu perangkat yang bisa membuka internet: HP Android, iPhone, laptop/PC Windows, atau Mac. Internet diperlukan untuk memakai ChatGPT online. Siapkan juga email pribadi yang aktif, karena akun perlu proses masuk/daftar resmi. Buku bisa dibaca lewat pembaca PDF bawaan perangkat.
-CONTOH PRAKTIS
-Contoh: Ibu Sari memakai HP Android yang biasa digunakan untuk WhatsApp. Tidak perlu membeli laptop baru untuk mencoba 15 pelajaran pertama.
-Jangan beli alat dulu
-Untuk chat teks, perangkat yang sudah lancar membuka browser dan PDF umumnya cukup. Memori penuh, layar retak, atau browser terlalu lama dapat mengganggu penggunaan. Gunakan Wi-Fi yang stabil bila mengunggah file. Printer, webcam khusus, GPU, NAS, dan VPS tidak diperlukan untuk memulai.
-Mendaftar dengan aman
-Buka https://chatgpt.com, pilih daftar/login, lalu ikuti autentikasi resmi sesuai pilihan akun. Pastikan alamat website benar dan bukan halaman tiruan. Nama tombol pendaftaran dan cara masuk dapat berubah. Jangan pernah menyalin OTP atau kata sandi ke kotak chat. Paket Free gratis untuk fitur dasarnya, dengan batas penggunaan tertentu.
-Usia dan bimbingan
-ChatGPT tidak ditujukan untuk anak di bawah 13 tahun. Anak usia 13-17 memerlukan persetujuan orang tua. Untuk murid SD di bawah batas usia, guru/orang tua memakai akun mereka dan membimbing latihan, bukan membuat akun anak.
-LATIHAN MURID
-Tunjukkan perangkat yang tersedia dan pilih: browser saja atau aplikasi resmi. Tuliskan satu kalimat alasan.
-BUKTI SUDAH PAHAM
-Murid bisa menyebut perangkat, sumber aplikasi resmi, dan cara menjaga OTP/kata sandi.
-MODUL ORIENTASI-02 | LANGKAH PER PERANGKAT
-Cara menyiapkan ChatGPT di HP dan komputer
+Petunjuk 5 - Mulai belajar lagi
+A Masih menggunakan percakapan yang sama
+Buka riwayat ChatGPT, pilih percakapan belajar sebelumnya, lalu tulis LANJUT. Jika balasannya kehilangan konteks, tempel catatan belajar terakhir dan minta melanjutkan dari sana.
+B Membuka percakapan baru atau memakai akun lain
+1. Buka catatan yang Anda simpan. Salin seluruh isi kotak biru di bawah ke kolom pesan pada Chat baru/New chat.
+2. Hapus baris [TEMPEL CATATAN BELAJAR PORTABEL YANG SUDAH DISIMPAN DI SINI], lalu ganti dengan catatan Anda yang sebenarnya. Setelah itu, kirim pesan lengkapnya.
+SALIN SELURUH TEKS DI DALAM KOTAK INI
+Saya ingin melanjutkan belajar Akademi AI Praktis. Buka dan baca panduan serta bab yang diperlukan dari:
+https://aangithb.github.io/catatan-belajar-e31/
+Baca catatan belajar di bawah, lalu lanjutkan dari langkah berikutnya, satu langkah setiap balasan. Jangan mulai dari awal jika tidak diperlukan. Jangan mengarang riwayat atau menganggap latihan yang belum diperiksa sudah selesai. Jika bahan tidak terbaca, katakan dengan jujur dan minta hanya teks bab yang diperlukan dari PDF murid. Jangan meminta unggahan PDF atau panduan pengajar.
 
-Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
-Pilihan paling mudah: browser untuk semua perangkat
-Buka Chrome, Safari, Firefox, atau Edge. Ketik chatgpt.com di bagian alamat atas browser. Tekan Enter/Go, lalu masuk ke akun. Cara ini paling mudah karena tidak perlu instalasi. Cocok bagi pemilik laptop lawas atau HP yang penyimpanannya hampir penuh.
-Android
-Buka https://chatgpt.com/download lalu pilih Android untuk diarahkan ke toko aplikasi resmi. Periksa penerbit aplikasi, pasang, buka, lalu login. Jika ponsel tidak kompatibel atau memori penuh, gunakan browser. Jangan mengunduh APK dari situs acak hanya untuk mengejar versi baru.
-iPhone/iPad
-Buka halaman unduhan resmi lalu pilih iOS. Instal melalui App Store, login dengan akun sendiri, lalu coba ketik satu pertanyaan. Jika aplikasi tidak tersedia pada perangkat, coba Safari. Izin mikrofon hanya diperlukan bila ingin memakai suara.
-Windows atau Mac
-Untuk pemula, cukup gunakan browser. Jika ingin aplikasi desktop resmi, buka halaman unduhan dan periksa syarat sistem. Jangan menganggap komputer lama wajib memasang aplikasi desktop baru. Pilihan Work/Codex tertentu bisa berbeda dari Free.
-Tanda berhasil
-Setelah login, kamu melihat kotak untuk mengetik pesan. Tulis: “Halo, saya pemula. Tunjukkan satu latihan sederhana.” Jika ada jawaban, kamu sudah siap. Belum perlu memakai Voice, Plugin, Codex, atau fitur berbayar.
-PROMPT TINGGAL SALIN
-Halo, saya baru memakai ChatGPT. Tolong ajari satu langkah kecil yang bisa saya coba sekarang. Gunakan bahasa yang sangat mudah.
-LATIHAN MURID
-Buka ChatGPT dan ketik satu pesan. Jika tombol berbeda dari buku, ceritakan tulisan tombol yang terlihat.
-BUKTI SUDAH PAHAM
-Murid berhasil mengetik satu pesan dan membaca balasan tanpa memasukkan rahasia.
-MODUL ORIENTASI-03 | MULAI BELAJAR BERSAMA CHATGPT
-Gunakan pesan awal yang sudah tersedia
-Buka petunjuk penggunaan di awal buku. Salin pesan awal beserta tautannya, tempel ke percakapan baru di ChatGPT, lalu kirim. Balas satu pertanyaan atau latihan yang diberikan. Anda tidak perlu memahami pengaturan khusus untuk memulai.
-Jika bahan tidak dapat dibaca
-ChatGPT seharusnya memberi tahu jika tautan tidak terbaca. Salin materi ORIENTASI-01 dari PDF ini, lalu kirim dengan pesan: Tolong ajarkan materi ini satu langkah setiap balasan. Untuk bab berikutnya, lakukan hal yang sama pada materi bab tersebut. Jangan memberikan kata sandi atau menghubungkan akun penyimpanan pribadi untuk membuka panduan publik.
-Jika sudah berada di dalam percakapan belajar
-Jangan mengirim pesan pembuka berkali-kali. Jawab pertanyaan yang diberikan. Ketik ULANG jika perlu penjelasan lebih sederhana dan SIMPAN PROGRES sebelum berhenti.
-Latihan
-Kirim pesan awal dari petunjuk penggunaan, lalu jawab satu pertanyaan pertama dengan keadaan Anda sendiri.
-Bukti sudah paham
-Anda berhasil mengirim pesan, memahami satu balasan awal, dan tahu cara meminta bantuan ketika tautan gagal dibaca.
-MODUL ORIENTASI-04 | JANGAN TERPUTUS SAAT PINDAH
-Menyimpan kemajuan dan pindah chat
+CATATAN BELAJAR SAYA:
+[TEMPEL CATATAN BELAJAR PORTABEL YANG SUDAH DISIMPAN DI SINI]
+AKHIR TEKS YANG DISALIN
+3. Cocokkan bab dan langkah yang disebut ChatGPT dengan catatan Anda. Jika salah, beri tahu bagian yang perlu dibetulkan sebelum mengerjakan latihan berikutnya. Catatan dari akun lama tidak otomatis terbaca oleh akun baru.
+C Hanya berganti HP atau komputer
+Masuk dengan akun yang sama, lalu cari percakapan belajar pada riwayat. Jika percakapannya tersedia, lanjutkan seperti bagian A. Jika memakai akun berbeda atau percakapannya tidak tersedia, gunakan pesan pada bagian B dan bawa catatan Anda. Berpindah perangkat tidak selalu memerlukan chat baru.
 
-Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
-Mengapa sebaiknya tetap di chat yang sama?
-Dalam chat yang sama, pembicaraan dan latihan sebelumnya biasanya lebih mudah dirujuk. Chat baru dan akun lain tidak otomatis membawa semua isi pembicaraan, sehingga guru bisa kehilangan konteks, terutama setelah materi panjang.
-Kapan perlu membuat chat baru?
-Boleh jika chat sudah berat, topik sangat berbeda, ganti perangkat, ganti akun, atau ingin memisahkan kelas. Yang penting membawa checkpoint: ringkasan tertulis yang berisi kode pelajaran, latihan, tingkat pemahaman, dan langkah berikutnya.
-PROMPT TINGGAL SALIN
-SIMPAN PROGRES. Buat satu blok “CATATAN BELAJAR PORTABEL” yang ringkas berisi versi buku, kode bab sekarang, yang sudah dikuasai, latihan selesai, kendala, perangkat yang digunakan, jalur profesi jika ada, dan perintah langkah berikutnya. Jangan sertakan data rahasia.
-Cara membawa ke chat baru
-Saat membuka chat atau akun baru, tempel prompt lanjut yang menunjuk referensi modul, lalu tempel Catatan Belajar Portabel. Jika tautan gagal, tempel teks cadangan modul. Mengunggah PDF adalah pilihan tambahan, bukan syarat memulai.
-Beralih akun tidak memindahkan ingatan
-Beda akun berarti izin dan riwayatnya berbeda. Jangan meminjam akun penjual/pengajar. Masing-masing murid memakai akun sendiri. Catatan progres juga sebaiknya disimpan oleh murid, bukan wajib dikirim kepada penjual.
-CATATAN BELAJAR PORTABEL | Buku E3.1-MURID-20261019-v4 | Modul DASAR-04 | Bukti jawaban: pelajar telah menulis contoh prompt | Pemahaman: perlu diperiksa | Latihan tertunda: jelaskan batasan | Berikutnya: periksa satu contoh dengan analogi. Ini contoh format, bukan progres Anda.
-LATIHAN MURID
-Minta SIMPAN PROGRES, salin ke Notes/Notepad, dan pastikan teks dapat dibuka kembali.
-BUKTI SUDAH PAHAM
-Murid bisa memulihkan konteks pada chat baru tanpa mengklaim riwayat otomatis terbawa.
-MODUL DASAR-01 | ISTILAH TANPA PUSING
-Apa itu AI, chatbot, model, agent, API?
+Petunjuk 6 - Jika chat penuh atau diminta buka chat baru
+A Jika masih bisa mengirim pesan di chat lama
+1. Kirim perintah SIMPAN PROGRES dari Petunjuk 4. Tunggu sampai catatan baru selesai dibuat, lalu simpan di luar ChatGPT.
+2. Pilih Chat baru/New chat. Gunakan pesan Lanjut belajar pada Petunjuk 5 bagian B beserta catatan yang baru disimpan. Jangan hanya mengetik LANJUT di percakapan baru.
+B Jika chat lama sudah tidak menerima pesan
+1. Jangan menunggu catatan baru dari chat yang sudah terkunci. Ambil CATATAN BELAJAR PORTABEL terakhir dari aplikasi Catatan/Notes atau salin dari balasan yang masih bisa dibaca di chat lama.
+2. Jika sempat belajar setelah catatan itu dibuat, tambahkan apa yang Anda ingat: bab, latihan terakhir, dan bagian yang belum diperiksa. Tulis tidak ingat untuk bagian yang tidak Anda ketahui.
+3. Buka chat baru, lalu gunakan pesan Petunjuk 5 bagian B dan catatan tersebut. Beri tahu bahwa sebagian kemajuan belum tercatat agar pendamping memeriksanya lebih dahulu.
+C Jika belum pernah menyimpan catatan
+Isi catatan sederhana berikut dengan keadaan Anda. Setelah itu, gunakan sebagai pengganti catatan portabel pada pesan Petunjuk 5 bagian B.
+CATATAN BELAJAR SEMENTARA
+Bab terakhir: [kode atau judul; tulis tidak ingat bila lupa]
+Yang sudah saya baca/praktikkan: [...]
+Jawaban atau latihan terakhir saya: [...]
+Yang belum dipahami atau belum diperiksa: [...]
+Perangkat dan bidang yang dipilih: [...]
+Saya belum punya catatan lengkap. Tolong bantu periksa bagian yang perlu diketahui sebelum melanjutkan.
+ChatGPT tidak otomatis mengetahui semua isi percakapan atau akun lama. Jika bahan latihan penting hanya ada di chat lama, bawa salinan teks atau berkasnya juga. Cukup berikan bagian yang diperlukan.
+
+Petunjuk 7 - Perintah saat belajar
+Ketik pesan berikut ketika diperlukan. Ini adalah cara meminta bantuan kepada pendamping, bukan nama tombol khusus aplikasi.
+PESAN YANG DIKETIK	KAPAN DIPAKAI
+LANJUT	Melanjutkan langkah pada percakapan belajar yang sama.
+ULANG	Meminta penjelasan lebih sederhana dan satu contoh.
+KUIS	Meminta pertanyaan latihan satu per satu.
+SIMPAN PROGRES	Meminta catatan kemajuan. Perintah lengkap dan cara menyimpannya ada pada Petunjuk 4.
+MATERI DASAR-04	Meminta belajar bab tertentu. Ganti DASAR-04 dengan kode yang diperlukan.
+PROFESI P13	Memilih satu bidang pekerjaan. Ganti P13 sesuai daftar isi.
+KEBUTUHAN SAYA: ...	Menjelaskan pekerjaan atau kebutuhan yang belum ada pada jalur pilihan.
+Memilih bidang pekerjaan
+Mulailah dari dasar. Setelah memahami cara menulis prompt, memeriksa hasil, dan menjaga data pribadi, pilih satu jalur P01 sampai P20 yang sesuai. Anda tidak perlu menyelesaikan bidang lain.
+Contoh: ketik PROFESI P07 untuk teknik sipil, atau PROFESI P13 untuk programmer. Jika belum tahu kodenya, cukup jelaskan pekerjaan dan kebutuhan Anda dengan bahasa sehari-hari.
+
+
+Petunjuk 7 - Memilih latihan yang sesuai
+A Bidang pekerjaan sudah ada di daftar isi
+Gunakan pesan ini pada percakapan belajar yang sudah berjalan. P13 adalah contoh untuk programmer. Ganti dengan kode bidang pilihan Anda.
+SALIN SELURUH TEKS DI DALAM KOTAK INI
+Saya ingin belajar jalur PROFESI P13 dari buku Akademi AI Praktis. Bimbing saya satu langkah setiap balasan. Periksa pengetahuan dasar saya seperlunya sebelum mulai. Jika bahan bab belum terbaca, minta hanya teks bab yang diperlukan dari PDF saya.
+AKHIR TEKS YANG DISALIN
+B Pekerjaan atau kebutuhan belum ada di daftar
+Isi bagian dalam tanda kurung siku dengan keadaan Anda. Latihan tambahan yang dibuat dari kebutuhan ini merupakan bahan baru di percakapan Anda, sehingga perlu disimpan bersama catatan belajar.
+SALIN SELURUH TEKS DI DALAM KOTAK INI
+KEBUTUHAN SAYA: [pekerjaan dan hal yang ingin dibantu]. Perangkat saya: [HP atau komputer]. Anggaran saya: [gratis atau jumlah yang tersedia]. Buat latihan tambahan sesuai kebutuhan ini, mulai dari cara sederhana dengan alat yang sudah ada. Berikan satu langkah setiap balasan. Jelaskan jika ada bahan tambahan di luar isi buku.
+AKHIR TEKS YANG DISALIN
+C Saat melanjutkan pada chat baru
+Gunakan pesan Petunjuk 5 bagian B terlebih dahulu. Sertakan kode jalur pekerjaan dan ringkasan latihan tambahan pada catatan belajar agar pendamping baru memahami pilihan Anda.
+
+Petunjuk 8 - Bila ada kendala
+Jika bahan dari tautan belum terbaca
+1. Baca pesan kesalahannya. Jika ChatGPT belum dapat membaca buku, jangan menganggap bahan sudah tersedia. Anda tidak perlu menghubungkan akun penyimpanan pribadi untuk membuka bahan publik.
+2. Buka PDF ini. Untuk pertama kali, pilih Petunjuk 1 / ORIENTASI-01. Untuk melanjutkan, pilih bab sesuai catatan belajar. Salin judul dan teks bab yang diperlukan.
+3. Kirim pesan di kotak biru berikut, kemudian tempel teks yang Anda salin. Jika sedang melanjutkan, sertakan juga catatan belajar terakhir.
+SALIN SELURUH TEKS DI DALAM KOTAK INI
+Tolong ajarkan materi asli yang saya salin setelah pesan ini. Gunakan bahasa Indonesia sederhana, satu langkah setiap balasan, lalu tunggu jawaban saya. Jangan mengaku telah membaca bagian buku yang belum tersedia.
+AKHIR TEKS YANG DISALIN
+Ini cara cadangan ketika pembacaan tautan gagal. Tidak perlu mengunggah seluruh PDF atau mencari file panduan pengajar. Jika teks terlalu panjang, kirim per subbagian dan beri tahu bahwa masih ada lanjutan.
+Kendala lain yang sering muncul
+YANG TERJADI	LANGKAH YANG DICOBA
+Tidak bisa masuk akun	Periksa alamat resmi dan gunakan cara masuk yang sebelumnya dipakai. Jangan bagikan kode verifikasi.
+Mencapai batas penggunaan Free	Ikuti waktu atau pilihan yang tertulis pada pemberitahuan. Jangan mengirim berulang kali. Lanjutkan membaca PDF sementara menunggu.
+ChatGPT mulai mengulang dari awal	Tempel catatan belajar terakhir dan minta melanjutkan bab serta langkah yang tertulis di sana.
+Chat penuh atau diminta membuka chat baru	Ikuti Petunjuk 6. Bawa catatan yang sudah disimpan; jangan hanya mengetik LANJUT.
+Penjelasan terlalu sulit	Ketik ULANG, gunakan bahasa untuk pemula dan beri satu contoh sehari-hari.
+Angka atau informasi meragukan	Minta sumber, tanggal, rumus, dan cara memeriksanya. Jangan memakai angka yang belum dapat dipastikan.
+Menu atau tombol berbeda	Ceritakan tulisan tombol yang Anda lihat. Periksa bantuan resmi; tampilan dan fitur bisa berbeda menurut perangkat atau akun.
+Berkas hasil tidak tersedia	Minta berkas yang benar-benar dapat diunduh. Simpan hasilnya sendiri sebelum menutup percakapan.
+
+Daftar isi - temukan bab dengan kodenya
+Semua petunjuk penggunaan berada sebelum daftar isi ini. Materi pelajaran dimulai pada DASAR-01. Gunakan kode pada pencarian PDF atau pilih judul pada daftar penanda buku di aplikasi pembaca PDF jika tersedia.
+PETUNJUK DI AWAL BUKU	KODE	HALAMAN
+Siapkan buku dan perangkat	ORIENTASI-01	2
+Pasang ChatGPT resmi	ORIENTASI-02	3
+Akun gratis dan pesan pertama	ORIENTASI-03	4
+Simpan kemajuan sebelum berhenti	ORIENTASI-04	5
+Lanjut di chat lama/baru, akun atau perangkat lain		6
+Chat penuh atau diminta buka chat baru		7
+Perintah dan pilihan jalur pekerjaan	C01	8
+Kendala dan cara cadangan	C06	10
+MATERI DASAR
+KODE	APA YANG DIPELAJARI	HALAMAN
+DASAR-01	Mengenal AI, model, chatbot, agent dan API	13
+DASAR-02	Peta merek dan jenis AI	14
+DASAR-03	Fungsi menu dan kelebihan/kekurangannya	16
+DASAR-04	Prompt efektif 6 unsur	17
+DASAR-05	Prompt hemat waktu dan biaya	18
+DASAR-06	Riset dan verifikasi hasil AI	19
+DASAR-07	Upload file, gambar, PDF, data	20
+DASAR-08	Perlindungan privasi dan izin	21
+DASAR-09	Projects, Memory dan file kerja	22
+DASAR-10	Work, Codex, Cloud, integrasi	23
+DASAR-11	Agen, jadwal dan otomatisasi aman	24
+DASAR-12	Mengenal biaya software, API dan VPS	25
+PILIHAN BIDANG PEKERJAAN
+KODE	JALUR PROFESI	HALAMAN
+P01	Guru dan tenaga pendidik	26
+P02	Murid SD - melalui guru/orang tua	27
+P03	Pelajar SMP/SMA	28
+P04	Mahasiswa D3/S1	29
+P05	Staf administrasi kantor	30
+P06	Arsitek / desainer bangunan	31
+P07	Teknik sipil / kontraktor	32
+P08	Konten kreator	33
+P09	Seniman dan desainer visual	34
+P10	Pemilik usaha / manajer / bos	35
+P11	Sales dan customer service	36
+P12	Afiliator	37
+P13	Programmer dan pembuat aplikasi	38
+P14	Trader saham	39
+P15	Trader kripto	40
+P16	Trader forex	41
+P17	Pedagang toko / UMKM	42
+P18	Tenaga pemasaran digital	43
+P19	Pekerja lepas / freelancer	44
+P20	Pekerjaan lain: Kebutuhan saya	45
+CONTOH LATIHAN LANJUTAN DAN RUJUKAN
+KODE	ISI	HALAMAN
+C03	Simulasi usaha jasa dari awal sampai serah terima	46
+C04	Contoh alur afiliasi jangka panjang	47
+C05	Memilih perangkat dan cloud sesuai kebutuhan	48
+C08	Sumber resmi dan catatan murid	49
+DASAR-01 | Apa itu AI, chatbot, model, agent, API?
 AI seperti asisten yang belum tahu semua kenyataan
 AI dapat membaca teks, mengenali pola, membantu menulis, membandingkan pilihan, dan merencanakan langkah. Tetapi AI bisa salah dan belum tentu memeriksa dunia nyata. Perlakukan jawaban sebagai bantuan kerja yang perlu dicek bila penting.
 Model dan aplikasi berbeda
@@ -184,12 +224,9 @@ Chatbot, agent, dan API
 Chatbot terutama menjawab percakapan. Agent dapat menjalankan rangkaian tugas dengan alat/izin, seperti membaca berkas lalu membuat laporan. API adalah jalur bagi program komputer berbicara ke layanan lain, bukan akun ChatGPT gratis yang otomatis bekerja di semua software.
 AI lokal dan AI cloud
 AI cloud memproses di server penyedia dan membutuhkan internet. AI lokal memproses di perangkat sendiri bila perangkat serta model mendukung; kelebihannya bisa menjaga sebagian data tetap lokal, tetapi lebih sulit setup dan perlu memori/komputasi yang memadai.
-LATIHAN MURID
+Latihan
 Bandingkan mesin cuci otomatis dengan asisten rumah tangga: mana alat, mesin, perintah, dan pengawasan?
-BUKTI SUDAH PAHAM
-Dapat menjelaskan beda model, aplikasi, agent, cloud dan lokal memakai analogi sederhana.
-MODUL DASAR-02 | JANGAN PILIH DARI IKLAN
-Jenis AI dan merek yang sering dikenal
+DASAR-02 | Jenis AI dan merek yang sering dikenal
 
 Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
 Kategori asisten umum
@@ -209,12 +246,9 @@ Mengolah bahan sendiri	File di Chat / NotebookLM	Bahan sebagai acuan
 Membuat desain	Canva / editor gambar	Hasil visual
 Menulis program	Codex / IDE AI	Ada tes kode
 Otomasi bisnis	Make/n8n/Zapier	Menghubungkan layanan
-LATIHAN MURID
+Latihan
 Tuliskan 3 pekerjaan nyata dan tentukan kategorinya, bukan merek paling mahal.
-BUKTI SUDAH PAHAM
-Murid paham bahwa AI memiliki banyak jenis dan alat dipilih berdasarkan pekerjaan.
-MODUL DASAR-03 | KELEBIHAN DAN BATASAN
-Mengenal menu ChatGPT satu per satu
+DASAR-03 | Mengenal menu ChatGPT satu per satu
 Yang tampak di layar
 New chat membuka percakapan baru; Recents/riwayat menemukan obrolan; kotak pesan tempat mengetik; tombol + biasanya memasukkan file; menu akun/Settings mengatur akun, keamanan, privasi, dan tampilan. Pada web, desktop dan HP posisi tombol dapat berbeda.
 Mode utama
@@ -236,12 +270,9 @@ Codex	Tes dan edit kode	Perlu repo/izin
 Plugin	Akses layanan	Harus autentikasi, izin
 Scheduled	Pengingat berulang	Tidak semua pemicu tersedia
 Memory	Personalisasi	Bukan penyimpan sempurna
-LATIHAN MURID
+Latihan
 Coba cari New chat, kotak pesan, tombol lampiran dan Settings. Tidak perlu mengubah apa pun.
-BUKTI SUDAH PAHAM
-Dapat memilih Chat, Search, Research, Work atau Codex dengan alasan yang benar.
-MODUL DASAR-04 | ENAM UNSUR PROMPT
-Cara membuat prompt yang efektif
+DASAR-04 | Cara membuat prompt yang efektif
 
 Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
 Enam unsur prompt
@@ -254,12 +285,9 @@ Beri peran dan contoh seperlunya
 Kalimat “bertindak sebagai guru yang sabar” membantu gaya jawaban. Namun peran fiktif tidak memberi izin mengeksekusi perintah nyata. Beri contoh bentuk keluaran dan batas agar jawaban lebih berguna.
 PROMPT TINGGAL SALIN
 Tujuan saya: [hasil]. Untuk: [pembaca/tujuan]. Data: [file/sumber]. Jangan: [larangan]. Bentuk hasil: [tabel/langkah/file]. Sebelum selesai, cek: [kriteria]. Jika data penting hilang, tanyakan satu hal terpenting.
-LATIHAN MURID
+Latihan
 Ubah “bantu saya jualan” menjadi prompt yang menyebut produk, target, media, batasan, dan hasil.
-BUKTI SUDAH PAHAM
-Murid mampu membuat permintaan yang tidak ambigu dan mempunyai kriteria sukses.
-MODUL DASAR-05 | JANGAN BOLAK-BALIK TANPA PERLU
-Tips prompt paling hemat dan efektif
+DASAR-05 | Tips prompt paling hemat dan efektif
 
 Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
 Pilih alat sederhana yang cukup
@@ -274,12 +302,9 @@ Simpan prompt berulang
 Untuk tugas berulang, simpan template dan catatan progres. Saat memulai modul baru, gunakan referensi modul yang sesuai agar tidak menempel ulang seluruh buku.
 PROMPT TINGGAL SALIN
 Kerjakan [tugas]. Target hasil [format]. Gunakan data yang saya berikan saja. Jika rencana/alat berisiko atau mahal, tampilkan pilihan gratis dulu. Jangan mengulang langkah yang sudah selesai. Laporan akhir: BERHASIL, BELUM TERUJI, GAGAL, dan BUKTI.
-LATIHAN MURID
+Latihan
 Ambil satu prompt panjang yang pernah kamu pakai. Pangkas menjadi 5 kalimat tanpa menghilangkan tujuan dan batasan.
-BUKTI SUDAH PAHAM
-Bisa mengurangi revisi, memilih alat yang cukup, dan menghindari klaim hasil tanpa bukti.
-MODUL DASAR-06 | FAKTA, ANALISIS, RUMOR
-Cara memeriksa jawaban AI
+DASAR-06 | Cara memeriksa jawaban AI
 AI dapat salah walau bahasanya meyakinkan
 Bisa muncul angka keliru, sumber tidak cocok, kesimpulan yang tidak didukung data, atau informasi yang sudah kedaluwarsa. Jangan jadikan AI satu-satunya sumber kebenaran untuk hal penting.
 Tiga label yang wajib dikenal
@@ -288,12 +313,9 @@ Tanggal dan sumber
 Untuk harga barang, peraturan, saham, jadwal, fitur aplikasi, dan biaya layanan, tulis tanggal data serta periksa sumber primer. Dokumen resmi dan situs penyedia biasanya lebih tepat untuk syarat produk daripada cuplikan video acak.
 Tanya bila sumber tidak ada
 Contoh: “Apa dasar angka ini? Tampilkan sumber dan tanggal. Jika tidak ditemukan, revisi dan tulis belum terverifikasi.”
-LATIHAN MURID
+Latihan
 Pilih satu info harga online, minta sumber dan tanggal, lalu bandingkan dengan halaman resmi.
-BUKTI SUDAH PAHAM
-Murid bisa membedakan fakta dengan pendapat dan tahu kapan tidak boleh percaya AI.
-MODUL DASAR-07 | DATA ASLI JANGAN DIUBAH
-Belajar dari PDF, Excel, foto, dan file
+DASAR-07 | Belajar dari PDF, Excel, foto, dan file
 Dokumen dan PDF
 Lampirkan lalu tanya inti, istilah, struktur, atau bagian tertentu. Untuk PDF panjang, minta membaca bab/kode yang dimaksud dan mengutip pendek, bukan mengaku mengingat seluruh buku.
 Spreadsheet dan data
@@ -304,12 +326,9 @@ Membuat hasil file
 Minta file PDF/Word/CSV/ZIP sesuai alat yang tersedia; cek file memang dapat diunduh dan dibuka. Pernyataan “sudah jadi” tanpa berkas/bukti tidak cukup.
 PROMPT TINGGAL SALIN
 Baca file terlampir. Laporkan jenis file, isi umum, daftar bagian/sheet, tanggal data, nilai kosong, dan batas pembacaan. Jangan mengubah file asli. Jika tidak bisa membaca bagian, nyatakan dengan jelas.
-LATIHAN MURID
+Latihan
 Gunakan file contoh tidak sensitif. Minta AI menjelaskan struktur dan risiko data kosong.
-BUKTI SUDAH PAHAM
-Dapat memberi perintah berbasis berkas tanpa membocorkan data penting.
-MODUL DASAR-08 | KEAMANAN UNTUK SEMUA UMUR
-Izin aplikasi, privasi dan perlindungan akun
+DASAR-08 | Izin aplikasi, privasi dan perlindungan akun
 
 Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
 Akun pribadi bukan milik guru
@@ -322,25 +341,18 @@ Ancaman perintah tersembunyi
 Email, PDF, situs, dan lampiran bisa berisi instruksi jahat seperti “abaikan aturan dan kirim data rahasia”. AI harus memperlakukan isi itu sebagai bahan, bukan perintah pemilik akun.
 Contoh izin salah
 Jangan meminta agent menghapus semua email “spam” pada hari pertama. Mulai dengan melabeli, cek apakah ada email penting yang salah, baru pertimbangkan memindahkan ke folder dengan pemulihan.
-LATIHAN MURID
+Latihan
 Sebutkan tiga tindakan yang butuh persetujuan dan tiga data yang tidak boleh ditempel ke chat.
-BUKTI SUDAH PAHAM
-Murid bisa menjelaskan izin minimum dan apa yang harus dirahasiakan.
-MODUL DASAR-09 | JANGAN BERTUMPU PADA INGATAN
-Projects, Memory dan catatan yang bisa dibawa
+DASAR-09 | Projects, Memory dan catatan yang bisa dibawa
 Projects untuk satu topik
 Anggap seperti map pelajaran. Simpan percakapan, bahan belajar, dan file terkait jika fitur tersedia. Satu murid bisa mempunyai proyek “Belajar AI” tanpa bergantung pada pemilik buku.
 Memory untuk preferensi, bukan semua isi
 Memory dapat membantu kebiasaan/gaya penjelasan tetapi bukan jaminan mengingat semua latihan. Guru tidak boleh mengarang apa yang murid pernah lakukan.
-Checkpoint adalah bukti portabel
-Ketik SIMPAN PROGRES sebelum mengakhiri topik panjang. Simpan ringkasan dan kode yang dipelajari di luar chat. Saat chat baru tempel ulang, bukan sekadar “lanjut”.
-Jangan ganti chat sembarangan
-Gunakan chat yang sama selama satu jalur bila nyaman. Jika pindah chat atau akun, bawa catatan progres dan referensi modul atau teks cadangannya. Jangan menganggap isi akun lain otomatis terbaca.
-LATIHAN MURID
+Catatan di luar percakapan
+Catatan belajar dapat dibawa ke chat lain. Catatan menyimpan ringkasan; berkas latihan tetap perlu disimpan terpisah. Cara menyimpan dan melanjutkan sudah ada pada Petunjuk 4 sampai 6 di awal buku.
+Latihan
 Buat checkpoint dari 3 hal yang sudah dipahami dalam pelajaran ini.
-Murid bisa melanjutkan di akun baru dengan referensi modul atau teks cadangan serta catatan singkat.
-MODUL DASAR-10 | KERJA BERBEDA DENGAN CHAT BIASA
-Work, Codex, browser, dan komputer cloud
+DASAR-10 | Work, Codex, browser, dan komputer cloud
 Chat untuk pertanyaan biasa
 Cocok untuk tanya jawab, belajar, revisi tulisan, ide dan draf. Paling mudah dipakai sebagai guru interaktif di Free. Jawaban tidak sama dengan akses atau tindakan pada perangkat.
 Work untuk tugas besar bila tersedia
@@ -349,12 +361,9 @@ Codex untuk membuat program
 Codex lokal mengerjakan repo/folder yang diizinkan di komputer; Codex Cloud melakukan pekerjaan di lingkungan cloud dari repositori terhubung pada paket yang memenuhi syarat. Tidak berarti semua server otomatis bisa diakses.
 Browser atau komputer yang dikendalikan agen
 Beberapa mode mendukung navigasi web dan computer use. Akses dibatasi fitur, izin dan kemampuan akun. Jangan beri asumsi agent bisa membuka WhatsApp personal, semua file pribadi, atau rekening hanya melalui pesan.
-LATIHAN MURID
+Latihan
 Cocokkan tugas: “jelaskan rumus”, “buat aplikasi”, “bandingkan 20 dokumen”. Tentukan Chat, Work atau Codex.
-BUKTI SUDAH PAHAM
-Murid paham perbedaan memberi jawaban, memakai agen dan mengembangkan kode.
-MODUL DASAR-11 | SETELAH PUNYA BUKTI
-Automasi: pengingat sampai alur kerja
+DASAR-11 | Automasi: pengingat sampai alur kerja
 
 Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
 Apa arti otomatis?
@@ -367,12 +376,9 @@ Persetujuan
 Laporan ringkas boleh otomatis bila aman. Mengirim penawaran, menghapus permanen, mengganti rekening, mempublikasikan konten, atau menjalankan pembayaran perlu aturan ketat dan persetujuan manusia.
 Berhenti dan pulih
 Automasi yang baik memiliki tombol berhenti, log aktivitas, pembatasan pengulangan, backup, dan notifikasi kesalahan. Jangan mengulang aksi keuangan jika belum tahu apakah transaksi pertama berhasil.
-LATIHAN MURID
+Latihan
 Rancang alur ringkasan email kerja contoh dengan pemicu, data, keluaran dan cara berhenti.
-BUKTI SUDAH PAHAM
-Murid dapat menjelaskan kapan butuh integrasi khusus dan manusia.
-MODUL DASAR-12 | BELI HANYA JIKA UNTUNG
-Perangkat, biaya, langganan, API dan VPS
+DASAR-12 | Perangkat, biaya, langganan, API dan VPS
 
 Bagan pembelajaran. Ilustrasi alur, bukan tangkapan layar antarmuka resmi.
 Tahap gratis
@@ -383,37 +389,21 @@ API itu biaya terpisah
 Membangun aplikasi yang memanggil model melalui API biasanya memiliki tarif penggunaan dan pengaturan pembayaran terpisah dari langganan ChatGPT. Jangan mengira membeli Plus berarti panggilan API gratis tanpa batas.
 Kapan butuh VPS?
 VPS adalah komputer sewaan yang menyala di internet. Cocok bila harus menjalankan aplikasi web/bot/webhook 24 jam, menjaga alamat publik, atau menerima permintaan dari pengguna lain. Tidak perlu untuk belajar prompt, meringkas PDF, atau kerja yang bisa dilakukan di laptop/HP.
-Spesifikasi sekadar panduan, bukan syarat resmi
-Chat teks: HP/PC yang lancar browsing. Kantor multi-tab: laptop dengan memori 8 GB terasa lebih nyaman; pekerjaan video/desain lebih berat bisa perlu RAM 16 GB+, SSD luas dan GPU; model AI lokal besar mungkin butuh GPU khusus. Sesuaikan aplikasi nyata dan anggaran. Jangan beli spesifikasi tinggi untuk tugas yang belum teruji.
 Cara menghitung keuntungan alat
 Tuliskan biaya bulanan, waktu yang dihemat, nilai pekerjaan, risiko data, biaya troubleshooting, dan batas penggunaan. Beralih ke alat berbayar hanya jika penghematan atau hasilnya masuk akal.
-LATIHAN MURID
+Latihan
 Buat daftar dua alat yang sudah ada, satu yang gratis, satu yang mungkin berbayar nanti, dan alasannya.
-BUKTI SUDAH PAHAM
-Murid tahu bedanya Free, langganan, tarif API, dan sewa VPS.
-MASUK KE JALUR PROFESI - PILIH SESUAI DIRI SENDIRI
-Setelah ORIENTASI dan setidaknya memahami DASAR-04 (prompt), DASAR-06 (verifikasi) dan DASAR-08 (privasi), murid boleh langsung memilih satu cabang P01-P19. Bab profesi lain tidak wajib dibaca. Jika pekerjaan tidak ada, gunakan “Kebutuhan saya: ...” untuk modul P20.
-
-Setiap cabang disusun untuk praktik bertingkat: mulai gratis dan naik bila benar-benar perlu.
-KATA KUNCI MEMILIH CABANG
-PROFESI P07 - buka Teknik Sipil. | MATERI P13 - buka Programmer. | KEBUTUHAN SAYA: saya seorang teknisi kulkas yang ingin memakai AI untuk membuat laporan servis dan mengatur jadwal pelanggan.
-MODUL P01 | PILIH JIKA RELEVAN DENGAN KAMU
-Guru dan tenaga pendidik
+P01 | Guru dan tenaga pendidik
 Guru kelas, guru mapel, wali kelas, tutor, dan penyusun materi yang ingin membuat pembelajaran lebih menarik tanpa menyerahkan penilaian kepada AI.
 1. Peralatan dan biaya
 Alat/hardware: Awal: HP untuk ide dan diskusi; lebih nyaman laptop dengan aplikasi dokumen/presentasi untuk membuat RPP, rubrik, dan lembar kerja. Opsional: proyektor, speaker, mikrofon untuk kelas; tablet gambar bila membuat ilustrasi.
 Software dan layanan: Gratis dulu: ChatGPT Free + Google Docs/Slides atau LibreOffice + bahan kurikulum resmi sekolah. Tambahan opsional: Canva, LMS sekolah, aplikasi pengolah nilai, penyimpanan sekolah, Work bila akses memungkinkan.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Membuat materi 1 pertemuan
-Langkah praktik: Tentukan kelas, tujuan belajar, lama, pengetahuan awal murid, dan contoh lokal. Minta rencana pengajaran 30 menit lalu periksa dengan kurikulum resmi.
-Hasil yang harus terlihat: Satu halaman rencana pembelajaran + latihan mudah.
+Tentukan kelas, tujuan belajar, lama, pengetahuan awal murid, dan contoh lokal. Minta rencana pengajaran 30 menit lalu periksa dengan kurikulum resmi.
 3. Praktik tingkat 2: Membuat diferensiasi dan rubrik
-Langkah praktik: Buat tiga versi pertanyaan: dukungan untuk yang kesulitan, standar, dan tantangan. Tentukan kriteria penilaian yang dapat dijelaskan siswa.
-Hasil yang harus terlihat: Rubrik transparan dan lembar kerja 3 tingkat.
+Buat tiga versi pertanyaan: dukungan untuk yang kesulitan, standar, dan tantangan. Tentukan kriteria penilaian yang dapat dijelaskan siswa.
 4. Praktik tingkat 3: Membuat bank soal serta umpan balik
-Langkah praktik: Berikan kompetensi, tingkat kesulitan dan kisi-kisi. AI menyusun soal dan kunci; guru mengecek logika, kebenaran dan bahasa sebelum dipakai.
-Hasil yang harus terlihat: Bank soal beserta pembahasan dan pembenaran.
+Berikan kompetensi, tingkat kesulitan dan kisi-kisi. AI menyusun soal dan kunci; guru mengecek logika, kebenaran dan bahasa sebelum dipakai.
 5. Bila ingin otomatis
 Otomasi opsional: jadwal perencanaan mingguan, ringkasan rapat guru, draf pengumuman wali kelas. Data siswa dan nilai sensitif harus dilindungi; jangan memasukkan identitas lengkap tanpa dasar izin.
 6. Prompt siap salin
@@ -425,27 +415,19 @@ PROMPT 3
 Dari tujuan belajar ini [tujuan], susun rubrik 4 kriteria. Jelaskan kepada murid dengan contoh pekerjaan bagus dan perlu perbaikan.
 7. Batas keamanan dan mutu
 AI tidak menggantikan guru atau asesmen manusia; periksa akurasi dan kurikulum. Jangan menilai perilaku, kecerdasan, atau karakter siswa secara otomatis. Lindungi data murid.
-PROYEK MINI PROFESI
+Proyek mini
 Rancang 1 modul pelajaran dengan tujuan, alur 30 menit, LKPD, kuis, rubrik, dan dua alternatif jika listrik/internet mati.
-TANDA LULUS
-Guru dapat mengajar materi tanpa AI di depan siswa dan bisa membuktikan isi soal serta rubrik cocok dengan kurikulum.
-MODUL P02 | PILIH JIKA RELEVAN DENGAN KAMU
-Murid SD - belajar didampingi orang dewasa
+P02 | Murid SD - belajar didampingi orang dewasa
 Untuk orang tua/guru yang ingin mendampingi anak SD berlatih baca, matematika, IPA, dan kreativitas; interaksi ChatGPT dilakukan oleh orang dewasa bagi anak di bawah 13 tahun.
 1. Peralatan dan biaya
 Alat/hardware: HP milik orang tua/guru sudah cukup untuk latihan bersama; siapkan buku tulis, pensil, kertas gambar, kartu angka. Opsional printer untuk lembar latihan. Hindari membuat akun ChatGPT atas nama anak yang belum memenuhi usia.
 Software dan layanan: Gratis: ChatGPT milik orang tua/guru untuk merancang permainan; sumber buku sekolah; kertas latihan. Jangan meminta anak mengunggah foto identitas, wajah, alamat sekolah atau rahasia keluarga.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Belajar membaca dengan permainan
-Langkah praktik: Guru/orang tua minta cerita 5 kalimat bertema hewan peliharaan, pilih kosakata mudah, bacakan bersama, dan ajukan pertanyaan lisan.
-Hasil yang harus terlihat: Cerita pendek + 3 pertanyaan pemahaman.
+Guru/orang tua minta cerita 5 kalimat bertema hewan peliharaan, pilih kosakata mudah, bacakan bersama, dan ajukan pertanyaan lisan.
 3. Praktik tingkat 2: Latihan matematika tanpa menyalin jawaban
-Langkah praktik: Minta soal penjumlahan sesuai kelas. Anak mencoba dulu di kertas; orang dewasa meminta petunjuk bukan jawaban instan.
-Hasil yang harus terlihat: Kartu soal dan petunjuk bertahap.
+Minta soal penjumlahan sesuai kelas. Anak mencoba dulu di kertas; orang dewasa meminta petunjuk bukan jawaban instan.
 4. Praktik tingkat 3: Eksperimen IPA aman
-Langkah praktik: AI membantu memilih percobaan sederhana seperti biji kacang tumbuh di kapas. Orang dewasa mengecek bahan dan mengawasi percobaan.
-Hasil yang harus terlihat: Lembar observasi harian dengan gambar.
+AI membantu memilih percobaan sederhana seperti biji kacang tumbuh di kapas. Orang dewasa mengecek bahan dan mengawasi percobaan.
 5. Bila ingin otomatis
 Otomasi tidak diperlukan. Fokus interaksi, permainan offline, dan perhatian orang dewasa. Buku dipakai sebagai perencana kegiatan, bukan perangkat pengasuhan otomatis.
 6. Prompt siap salin
@@ -457,27 +439,19 @@ PROMPT 3
 Buat percobaan sains aman untuk kelas 4 yang memakai air dan gelas plastik. Perlu pendamping; tulis langkah dan catatan keamanan.
 7. Batas keamanan dan mutu
 Untuk anak di bawah 13 tahun, orang dewasa yang berinteraksi dengan ChatGPT. Jangan membuat ketergantungan layar. Hasil AI harus disaring sesuai usia.
-PROYEK MINI PROFESI
+Proyek mini
 Buat paket 7 hari: membaca 10 menit, matematika 10 menit, kegiatan gerak/offline dan catatan orang tua.
-TANDA LULUS
-Anak belajar dengan pendamping, mencoba sendiri sebelum diberi jawaban, dan tidak mengungkapkan data pribadi.
-MODUL P03 | PILIH JIKA RELEVAN DENGAN KAMU
-Pelajar SMP dan SMA
+P03 | Pelajar SMP dan SMA
 Siswa yang ingin memahami pelajaran, menyiapkan ulangan, belajar bahasa, melakukan riset sekolah, dan menyusun presentasi tanpa menjiplak.
 1. Peralatan dan biaya
 Alat/hardware: HP + buku sekolah cukup; laptop membantu membuat presentasi dan tugas panjang. Headset opsional untuk latihan bahasa. Orang usia 13-17 memerlukan persetujuan orang tua sebelum memakai ChatGPT.
 Software dan layanan: ChatGPT Free, buku resmi, kalkulator, dokumen gratis, dan situs perpustakaan/sumber sekolah. Opsional latihan Voice dan pembuat slide sesuai ketersediaan akun.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Tutor konsep yang belum dipahami
-Langkah praktik: Foto atau tulis soal tanpa identitas pribadi, minta AI menerangkan konsep dengan analogi dan 1 contoh berbeda; siswa menyelesaikan soal asli sendiri.
-Hasil yang harus terlihat: Catatan konsep + satu solusi dengan langkah.
+Foto atau tulis soal tanpa identitas pribadi, minta AI menerangkan konsep dengan analogi dan 1 contoh berbeda; siswa menyelesaikan soal asli sendiri.
 3. Praktik tingkat 2: Belajar dengan kartu dan kuis
-Langkah praktik: Minta 10 flashcard dan kuis bertahap dari ringkasan buku; cek setiap definisi dengan bahan pelajaran.
-Hasil yang harus terlihat: Kartu hafalan, kuis, laporan salah paham.
+Minta 10 flashcard dan kuis bertahap dari ringkasan buku; cek setiap definisi dengan bahan pelajaran.
 4. Praktik tingkat 3: Proyek dan presentasi sekolah
-Langkah praktik: Pilih pertanyaan riset, cari sumber resmi, susun kerangka, buat presentasi dan jelaskan dengan kata sendiri. Cantumkan sumber dan bantuan AI sesuai aturan sekolah.
-Hasil yang harus terlihat: Slide berisi ide sendiri dan daftar sumber.
+Pilih pertanyaan riset, cari sumber resmi, susun kerangka, buat presentasi dan jelaskan dengan kata sendiri. Cantumkan sumber dan bantuan AI sesuai aturan sekolah.
 5. Bila ingin otomatis
 Jadwal review 15 menit per hari boleh dibantu pengingat. Jangan memakai AI untuk menyamar sebagai karya pribadi tanpa izin sekolah atau menjawab ujian yang melarang bantuan.
 6. Prompt siap salin
@@ -489,27 +463,19 @@ PROMPT 3
 Bantu buat struktur presentasi 6 slide tentang sampah plastik. Setiap klaim faktual perlu sumber. Saya yang menulis kalimat akhirnya.
 7. Batas keamanan dan mutu
 Bukan mesin mencontek. Periksa aturan sekolah, sumber, batasan usia dan persetujuan orang tua. Jangan menyalin jawaban ujian tanpa memahami.
-PROYEK MINI PROFESI
+Proyek mini
 Pilih satu bab yang sulit, kerjakan tes awal, belajar, lalu tes akhir dengan soal berbeda dan catat peningkatannya.
-TANDA LULUS
-Siswa mampu menjelaskan materi sendiri dan menuliskan kapan AI digunakan dalam tugas.
-MODUL P04 | PILIH JIKA RELEVAN DENGAN KAMU
-Mahasiswa D3 / S1
+P04 | Mahasiswa D3 / S1
 Mahasiswa yang menyiapkan rangkuman kuliah, laporan praktikum, presentasi, analisis data, literatur, atau tugas akhir secara etis.
 1. Peralatan dan biaya
 Alat/hardware: Laptop lebih nyaman untuk PDF jurnal, pengolah kata dan spreadsheet. Awal 8 GB RAM cukup untuk dokumen biasa; data/komputasi berat perlu sesuai software. Internet perpustakaan kampus dan Zotero opsional.
 Software dan layanan: ChatGPT Free, Google Scholar dan database kampus, Zotero, LibreOffice/Python/R bila relevan. Riset mendalam/Work atau API hanya bila perlu dan tersedia.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Baca materi dan jelaskan
-Langkah praktik: Unggah slide sendiri yang boleh dipakai, minta konsep, rumus, dan tiga pertanyaan pembanding. Periksa istilah pada sumber asli.
-Hasil yang harus terlihat: Rangkuman bab dan peta konsep.
+Unggah slide sendiri yang boleh dipakai, minta konsep, rumus, dan tiga pertanyaan pembanding. Periksa istilah pada sumber asli.
 3. Praktik tingkat 2: Tinjauan literatur terkontrol
-Langkah praktik: Definisikan pertanyaan penelitian, kata kunci, periode, kriteria inklusi; cari artikel asli dan catat DOI/tautan. AI membantu matriks literatur, bukan mengarang referensi.
-Hasil yang harus terlihat: Tabel sumber, metode, hasil, keterbatasan.
+Definisikan pertanyaan penelitian, kata kunci, periode, kriteria inklusi; cari artikel asli dan catat DOI/tautan. AI membantu matriks literatur, bukan mengarang referensi.
 4. Praktik tingkat 3: Olah data dan reproduksi hasil
-Langkah praktik: Tentukan sumber, variabel, perlakuan data kosong, rumus, dan metode uji. AI menyarankan kode/rumus lalu mahasiswa menjalankan serta membandingkan output.
-Hasil yang harus terlihat: Notebook analisis + catatan validasi.
+Tentukan sumber, variabel, perlakuan data kosong, rumus, dan metode uji. AI menyarankan kode/rumus lalu mahasiswa menjalankan serta membandingkan output.
 5. Bila ingin otomatis
 Otomasi opsional: pengingat bacaan, ringkasan artikel yang ditemukan, pengecekan format sitasi; pemilihan metodologi, interpretasi dan orisinalitas tetap tanggung jawab peneliti.
 6. Prompt siap salin
@@ -521,27 +487,19 @@ PROMPT 3
 Saya punya CSV fiktif [kolom]. Sarankan rencana pembersihan dan analisis. Jangan hapus baris sebelum saya menyetujui kriteria.
 7. Batas keamanan dan mutu
 Ikuti kebijakan akademik; kutip sumber asli; periksa bias, plagiarisme, penyimpanan data partisipan, hak cipta, dan metode statistik. Tidak boleh mengaku riset dilakukan bila belum dilakukan.
-PROYEK MINI PROFESI
+Proyek mini
 Bangun proposal penelitian 3 halaman berisi pertanyaan, sumber literatur nyata, rencana metode, etika dan batasannya.
-TANDA LULUS
-Mahasiswa bisa mempertanggungjawabkan metode, sumber, serta bagian yang dibantu AI.
-MODUL P05 | PILIH JIKA RELEVAN DENGAN KAMU
-Administrasi kantor
+P05 | Administrasi kantor
 Staf administrasi, sekretaris, HR administratif dan back-office yang banyak mengurus email, agenda, dokumen serta spreadsheet.
 1. Peralatan dan biaya
 Alat/hardware: Laptop/PC nyaman untuk banyak tab dan spreadsheet; HP untuk notifikasi. Awal 8 GB RAM dan penyimpanan SSD membantu. Scanner/ADF atau aplikasi scan opsional; printer jika proses kantor masih fisik.
 Software dan layanan: ChatGPT Free + spreadsheet/dokumen kantor yang diizinkan. Koneksi Outlook/Gmail, Drive, kalender, OCR, dan workflow n8n/Make/Zapier hanya setelah izin perusahaan.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Notulen rapat dari catatan
-Langkah praktik: Berikan catatan rapat tanpa data rahasia. Minta keputusan, PIC, tenggat, pertanyaan belum selesai; cocokkan dengan peserta sebelum distribusi.
-Hasil yang harus terlihat: Notulen + daftar tindak lanjut.
+Berikan catatan rapat tanpa data rahasia. Minta keputusan, PIC, tenggat, pertanyaan belum selesai; cocokkan dengan peserta sebelum distribusi.
 3. Praktik tingkat 2: Rapikan data administratif
-Langkah praktik: Berikan tabel contoh, minta cek duplikat, format tanggal, kolom kosong dan total; lakukan koreksi hanya pada salinan.
-Hasil yang harus terlihat: Daftar temuan dan file pembanding.
+Berikan tabel contoh, minta cek duplikat, format tanggal, kolom kosong dan total; lakukan koreksi hanya pada salinan.
 4. Praktik tingkat 3: SOP dan email rutin
-Langkah praktik: Buat alur permintaan cuti, pemesanan alat atau invoice dari kebijakan kantor yang benar. Hasil diperiksa atasan dan tim terkait.
-Hasil yang harus terlihat: SOP satu halaman, template email, checklist.
+Buat alur permintaan cuti, pemesanan alat atau invoice dari kebijakan kantor yang benar. Hasil diperiksa atasan dan tim terkait.
 5. Bila ingin otomatis
 Integrasi opsional: email masuk  ->  klasifikasi  ->  draft balasan  ->  persetujuan  ->  kirim; tiket pekerjaan  ->  spreadsheet  ->  pengingat. Jangan menghapus otomatis atau membocorkan data pegawai.
 6. Prompt siap salin
@@ -553,27 +511,19 @@ PROMPT 3
 Buat draf email resmi untuk menagih dokumen yang belum dikirim. Sopan, 120 kata, tanpa ancaman.
 7. Batas keamanan dan mutu
 Perhatikan data gaji, identitas pegawai, kesehatan, atau kontrak. Gunakan hanya sistem yang disetujui perusahaan. AI bukan pihak yang boleh mengambil keputusan HR final secara otomatis.
-PROYEK MINI PROFESI
+Proyek mini
 Buat paket administrasi rapat bulanan: agenda, notulen, daftar tugas, dan email tindak lanjut dari data contoh.
-TANDA LULUS
-Paket bisa dipakai tanpa mengubah angka, membocorkan rahasia atau mengirim email tanpa izin.
-MODUL P06 | PILIH JIKA RELEVAN DENGAN KAMU
-Arsitek / perancang bangunan
+P06 | Arsitek / perancang bangunan
 Arsitek atau staf desain yang memakai AI untuk ide konsep, brief klien, program ruang, presentasi, dan pengelolaan revisi-bukan menggantikan validasi profesional.
 1. Peralatan dan biaya
 Alat/hardware: Laptop yang menjalankan CAD/BIM/3D sesuai syarat vendor; untuk 3D/render kompleks umumnya RAM 16-32 GB dan GPU yang kompatibel membantu. Tablet pena/printer plotter opsional. VPS biasanya tidak diperlukan untuk desain awal.
 Software dan layanan: ChatGPT untuk brief dan konsep, spreadsheet untuk area, software CAD/BIM berlisensi yang sah, Canva/editor visual untuk presentasi. Alat render AI opsional sesuai lisensi dan izin gambar.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Menerjemahkan kebutuhan klien
-Langkah praktik: Buat daftar penghuni, aktivitas, luas lahan, ruang wajib, gaya visual, batas anggaran dan regulasi setempat. Minta AI menyusun pertanyaan yang belum dijawab.
-Hasil yang harus terlihat: Brief klien + daftar pertanyaan.
+Buat daftar penghuni, aktivitas, luas lahan, ruang wajib, gaya visual, batas anggaran dan regulasi setempat. Minta AI menyusun pertanyaan yang belum dijawab.
 3. Praktik tingkat 2: Membuat konsep program ruang
-Langkah praktik: Dari kebutuhan yang sudah dikonfirmasi, susun hubungan antar ruang, zonasi publik/privat dan perkiraan luas sebagai sketsa konsep. Cocokkan dengan tapak nyata.
-Hasil yang harus terlihat: Matriks ruang dan konsep sirkulasi.
+Dari kebutuhan yang sudah dikonfirmasi, susun hubungan antar ruang, zonasi publik/privat dan perkiraan luas sebagai sketsa konsep. Cocokkan dengan tapak nyata.
 4. Praktik tingkat 3: Menjelaskan desain kepada klien
-Langkah praktik: Buat naskah presentasi opsi A/B, pro-kontra terkait cahaya, ventilasi, aksesibilitas dan perawatan. Gambar konseptual diberi label belum final.
-Hasil yang harus terlihat: Deck pilihan konsep dengan catatan asumsi.
+Buat naskah presentasi opsi A/B, pro-kontra terkait cahaya, ventilasi, aksesibilitas dan perawatan. Gambar konseptual diberi label belum final.
 5. Bila ingin otomatis
 Otomasi opsional: agenda review desain, log komentar klien, daftar revisi, pengingat deliverable. Perubahan gambar konstruksi memerlukan review arsitek dan koordinasi konsultan terkait.
 6. Prompt siap salin
@@ -585,27 +535,19 @@ PROMPT 3
 Buat presentasi 5 slide membandingkan dua konsep fasad. Hindari klaim kinerja energi tanpa perhitungan dan data iklim.
 7. Batas keamanan dan mutu
 AI tidak dapat memvalidasi kepatuhan PBG, RTRW, standar aksesibilitas, keamanan kebakaran atau dokumen bangunan tanpa dokumen resmi dan ahli berwenang. Render visual bukan gambar kerja sah.
-PROYEK MINI PROFESI
+Proyek mini
 Buat contoh brief + dua konsep program ruang + checklist regulasi yang harus diverifikasi secara lokal.
-TANDA LULUS
-Pekerjaan memisahkan ilustrasi konsep, ukuran yang terukur, dan tanggung jawab desain profesional.
-MODUL P07 | PILIH JIKA RELEVAN DENGAN KAMU
-Teknik sipil / kontraktor
+P07 | Teknik sipil / kontraktor
 Engineer sipil, estimator, pengawas, atau kontraktor yang ingin mempercepat dokumentasi proyek, BOQ awal, rapat, dan kontrol risiko tanpa menggantikan insinyur berlisensi.
 1. Peralatan dan biaya
 Alat/hardware: Laptop yang mendukung spreadsheet, CAD/BIM dan foto lapangan; untuk BIM kompleks RAM 16 GB atau lebih bisa membantu. Kamera HP, alat ukur bersertifikat, helm APD, dan konektivitas lapangan sesuai SOP tetap wajib.
 Software dan layanan: ChatGPT + spreadsheet + dokumen spesifikasi proyek. Software BIM/CAD dan manajemen proyek jika sudah digunakan perusahaan. Otomasi cloud hanya jika tim memang perlu kolaborasi real-time.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Menyusun RFI dan pertanyaan teknis
-Langkah praktik: Dari gambar/spesifikasi yang boleh dibagikan, daftar titik yang ambigu; ajukan pertanyaan ke perancang. Jangan mengisi sendiri ukuran/kapasitas yang tidak tercantum.
-Hasil yang harus terlihat: Daftar RFI dengan prioritas dan referensi dokumen.
+Dari gambar/spesifikasi yang boleh dibagikan, daftar titik yang ambigu; ajukan pertanyaan ke perancang. Jangan mengisi sendiri ukuran/kapasitas yang tidak tercantum.
 3. Praktik tingkat 2: Estimasi volume konseptual
-Langkah praktik: AI dapat membantu langkah rumus volume/BOQ dari data dimensi yang sudah diverifikasi. Engineer menghitung ulang dengan gambar skala benar dan standar proyek.
-Hasil yang harus terlihat: Tabel estimasi dengan satuan dan asumsi.
+AI dapat membantu langkah rumus volume/BOQ dari data dimensi yang sudah diverifikasi. Engineer menghitung ulang dengan gambar skala benar dan standar proyek.
 4. Praktik tingkat 3: Laporan progres lapangan
-Langkah praktik: Dari catatan dan foto yang aman, buat laporan harian: kegiatan, cuaca, tenaga, alat, risiko, keterlambatan. Foto ambigu diberi status perlu verifikasi.
-Hasil yang harus terlihat: Daily report dan daftar risiko.
+Dari catatan dan foto yang aman, buat laporan harian: kegiatan, cuaca, tenaga, alat, risiko, keterlambatan. Foto ambigu diberi status perlu verifikasi.
 5. Bila ingin otomatis
 Otomasi opsional: konsolidasi progres dari formulir lapangan ke dashboard dan pengingat material. Perubahan desain, instruksi kerja, dan klaim pembayaran harus disetujui penanggung jawab.
 6. Prompt siap salin
@@ -617,27 +559,19 @@ PROMPT 3
 Dari spesifikasi parsial [teks], buat daftar pertanyaan RFI. Jika data struktur kurang, jangan menghitung kapasitas aman.
 7. Batas keamanan dan mutu
 Jangan memakai AI sebagai satu-satunya dasar rancangan struktur, perhitungan beban, geoteknik, keselamatan kerja atau sertifikasi. Semua harus ditinjau engineer berwenang serta aturan teknis yang berlaku.
-PROYEK MINI PROFESI
+Proyek mini
 Rancang alur pelaporan satu minggu konstruksi menggunakan data contoh, dengan BOQ uji, log isu, dan persetujuan supervisor.
-TANDA LULUS
-Perhitungan dapat ditelusuri ke sumber, satuan jelas, dan keputusan keselamatan tetap di tangan profesional.
-MODUL P08 | PILIH JIKA RELEVAN DENGAN KAMU
-Konten kreator
+P08 | Konten kreator
 Pembuat video, podcaster, penulis naskah, streamer, atau pemilik kanal yang ingin membuat konten lebih konsisten dengan kualitas dan hak cipta yang aman.
 1. Peralatan dan biaya
 Alat/hardware: Mulai dengan HP berkamera baik, tripod dan mic clip-on sederhana. Untuk edit video rutin, laptop/PC 16 GB RAM dan SSD memadai lebih nyaman; GPU membantu pada efek berat. Lampu dan tempat rekam tenang sering lebih berguna dari kamera mahal.
 Software dan layanan: ChatGPT Free untuk riset/naskah, editor gratis seperti CapCut/DaVinci Resolve sesuai perangkat, Canva untuk thumbnail. Generator video/suara AI berbayar opsional dan periksa lisensi komersial.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Bangun kalender konten
-Langkah praktik: Tentukan audiens, masalah, 4 pilar konten, jadwal realistis. AI menyusun ide, bukan mengarang tren yang belum dicek.
-Hasil yang harus terlihat: Kalender 2 minggu dan metrik tujuan.
+Tentukan audiens, masalah, 4 pilar konten, jadwal realistis. AI menyusun ide, bukan mengarang tren yang belum dicek.
 3. Praktik tingkat 2: Buat storyboard dan hook
-Langkah praktik: Tulis pesan inti 1 kalimat, tiga opsi pembuka, urutan adegan, B-roll, teks layar dan ajakan bertindak yang jujur.
-Hasil yang harus terlihat: Naskah video 30-90 detik dan shot list.
+Tulis pesan inti 1 kalimat, tiga opsi pembuka, urutan adegan, B-roll, teks layar dan ajakan bertindak yang jujur.
 4. Praktik tingkat 3: Uji dan daur ulang konten
-Langkah praktik: Dari video yang sudah jadi, buat caption, ringkasan blog, subtitle untuk ditinjau, dan potongan highlight. Ukur retensi asli, bukan menebak.
-Hasil yang harus terlihat: Paket konten multi-platform dengan log revisi.
+Dari video yang sudah jadi, buat caption, ringkasan blog, subtitle untuk ditinjau, dan potongan highlight. Ukur retensi asli, bukan menebak.
 5. Bila ingin otomatis
 Otomasi opsional: antrean ide, draf caption, jadwal posting melalui platform resmi, rekap analytics. Konten publik sebaiknya ditinjau manusia; hati-hati klaim atau hak musik/visual.
 6. Prompt siap salin
@@ -649,27 +583,19 @@ PROMPT 3
 Analisis metrik 7 video dari tabel [data]. Temukan pola dengan bukti; jangan mengarang jangkauan atau penghasilan.
 7. Batas keamanan dan mutu
 Perhatikan lisensi musik/foto, privasi lokasi/orang, aturan platform, pengungkapan sponsor, dan perbedaan konten iklan dengan pengalaman nyata.
-PROYEK MINI PROFESI
+Proyek mini
 Buat kampanye 7 hari untuk satu topik: kalender, 3 naskah, thumbnail konsep, checklist upload, dan metrik evaluasi.
-TANDA LULUS
-Dapat menerbitkan konten dengan sumber, izin dan klaim jujur; alat mahal tidak wajib.
-MODUL P09 | PILIH JIKA RELEVAN DENGAN KAMU
-Seniman dan desainer visual
+P09 | Seniman dan desainer visual
 Ilustrator, pelukis, desainer grafis, fotografer, dan pekerja kreatif yang ingin mempercepat ide tanpa kehilangan gaya orisinal dan hak karya.
 1. Peralatan dan biaya
 Alat/hardware: Awal: HP/kertas/pensil untuk moodboard; lebih nyaman tablet pena atau komputer sesuai software. Untuk gambar resolusi besar, RAM 16 GB serta layar warna baik membantu. Printer foto/plotter opsional.
 Software dan layanan: ChatGPT untuk brainstorming dan deskripsi visual, Krita/Inkscape/GIMP atau Canva untuk desain sesuai kebutuhan, generator gambar sebagai ide bila hak penggunaan jelas. Aplikasi gambar berbayar dipilih bila benar-benar dibutuhkan.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Membuat arah visual
-Langkah praktik: Buat brief target audiens, pesan, nuansa, komposisi, palet dan ukuran output. AI mengusulkan alternatif, seniman memilih konsep.
-Hasil yang harus terlihat: Moodboard tekstual + tiga konsep.
+Buat brief target audiens, pesan, nuansa, komposisi, palet dan ukuran output. AI mengusulkan alternatif, seniman memilih konsep.
 3. Praktik tingkat 2: Menyusun proses produksi
-Langkah praktik: Bagi proyek menjadi sketsa, revisi, desain detail, pemeriksaan keterbacaan, dan ekspor. AI membantu checklist serta dokumentasi revisi.
-Hasil yang harus terlihat: Daftar produksi dan file final sesuai brief.
+Bagi proyek menjadi sketsa, revisi, desain detail, pemeriksaan keterbacaan, dan ekspor. AI membantu checklist serta dokumentasi revisi.
 4. Praktik tingkat 3: Membuat presentasi portofolio
-Langkah praktik: Buat deskripsi proses, tantangan, alasan desain dan caption tanpa mengarang klien/penghargaan.
-Hasil yang harus terlihat: Halaman portofolio dan presentasi.
+Buat deskripsi proses, tantangan, alasan desain dan caption tanpa mengarang klien/penghargaan.
 5. Bila ingin otomatis
 Otomasi opsional: formulir brief klien, sistem penamaan berkas, daftar revisi, template penawaran. Selalu simpan file mentah orisinal.
 6. Prompt siap salin
@@ -681,27 +607,19 @@ PROMPT 3
 Dari proses kerja saya [catatan], tulis deskripsi portofolio 150 kata yang jujur dan tidak mengarang hasil.
 7. Batas keamanan dan mutu
 Jangan meniru seniman hidup secara menyesatkan, memakai gambar berhak cipta tanpa izin, mengklaim hak komersial model/generator tanpa mengecek syarat, atau mengarang pengalaman klien.
-PROYEK MINI PROFESI
+Proyek mini
 Buat brief dan tiga konsep visual untuk acara fiktif, pilih satu, tulis proses revisi dan checklist hak cipta.
-TANDA LULUS
-Menghasilkan karya yang bisa dijelaskan serta diperiksa hak penggunaan dan ukuran final.
-MODUL P10 | PILIH JIKA RELEVAN DENGAN KAMU
-Pemilik usaha, direktur dan manajer
+P10 | Pemilik usaha, direktur dan manajer
 Pemilik bisnis dan pimpinan yang ingin mengambil keputusan lebih rapi, menyiapkan rapat, SOP, analisis penjualan, dan dashboard yang dapat dipertanggungjawabkan.
 1. Peralatan dan biaya
 Alat/hardware: HP untuk memeriksa ringkasan; laptop/PC nyaman untuk spreadsheet, laporan dan rapat. Saat usaha tumbuh, pertimbangkan sistem POS/CRM serta backup cloud; VPS hanya bila perlu aplikasi khusus selalu online.
 Software dan layanan: ChatGPT Free + spreadsheet pembukuan yang rapi. Opsi lanjutan: software akuntansi/POS/CRM resmi, plugin email/kalender, dashboard, Work, otomatisasi dengan batas izin.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Ringkasan kondisi usaha
-Langkah praktik: Berikan tabel penjualan/pengeluaran fiktif atau yang diizinkan. AI membuat ringkasan tren, produk laku, perubahan biaya; pemilik memeriksa sumber data.
-Hasil yang harus terlihat: Dashboard ringkas dengan asumsi.
+Berikan tabel penjualan/pengeluaran fiktif atau yang diizinkan. AI membuat ringkasan tren, produk laku, perubahan biaya; pemilik memeriksa sumber data.
 3. Praktik tingkat 2: Membangun SOP yang bisa dijalankan
-Langkah praktik: Dari proses nyata (buka toko, retur, stok, penagihan), AI membuat urutan SOP dan checklist; karyawan menguji apakah realistis.
-Hasil yang harus terlihat: SOP 1 halaman dan alur eskalasi.
+Dari proses nyata (buka toko, retur, stok, penagihan), AI membuat urutan SOP dan checklist; karyawan menguji apakah realistis.
 4. Praktik tingkat 3: Menguji keputusan
-Langkah praktik: Minta tiga skenario keputusan, risiko, kebutuhan dana, data yang belum ada, dan indikator keberhasilan. AI tidak mengambil keputusan strategis menggantikan pemilik.
-Hasil yang harus terlihat: Memo 3 opsi dan matriks risiko.
+Minta tiga skenario keputusan, risiko, kebutuhan dana, data yang belum ada, dan indikator keberhasilan. AI tidak mengambil keputusan strategis menggantikan pemilik.
 5. Bila ingin otomatis
 Otomasi opsional: ringkasan penjualan setiap sore, pengingat stok, penjadwalan invoice, rekap pesanan. Pembayaran dan perubahan rekening tetap memakai kontrol terpisah.
 6. Prompt siap salin
@@ -713,27 +631,19 @@ PROMPT 3
 Bandingkan tiga opsi membuka cabang: sewa, titip jual, atau online. Tulis asumsi dan data yang perlu dicari.
 7. Batas keamanan dan mutu
 Jangan memperlakukan prediksi sebagai kepastian atau menyerahkan keputusan PHK, pinjaman, pembayaran, hak karyawan, dan informasi pelanggan sepenuhnya ke AI.
-PROYEK MINI PROFESI
+Proyek mini
 Buat laporan manajemen mingguan, SOP kas harian, dan daftar tiga keputusan yang perlu data tambahan.
-TANDA LULUS
-Mampu membedakan angka asli dari proyeksi dan keputusan tetap punya penanggung jawab.
-MODUL P11 | PILIH JIKA RELEVAN DENGAN KAMU
-Sales dan customer service
+P11 | Sales dan customer service
 Sales lapangan, staf penawaran, customer success, dan layanan pelanggan yang ingin menyiapkan pesan relevan dan menjaga tindak lanjut tanpa spam.
 1. Peralatan dan biaya
 Alat/hardware: HP untuk komunikasi dan CRM sederhana; laptop untuk email massal yang berizin, katalog, dan laporan penjualan. Headset membantu telepon; paket data stabil. VPS tidak diperlukan kecuali membangun sistem khusus.
 Software dan layanan: ChatGPT Free, CRM gratis jika sesuai, spreadsheet prospek yang diizinkan, email/WhatsApp Business melalui aplikasi resmi. Integrasi bisnis otomatis memerlukan persetujuan dan kebijakan platform.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Mengenal produk dan calon pelanggan
-Langkah praktik: Tulis manfaat nyata produk, profil pembeli, masalah utama, dan pertanyaan umum. AI menyusun FAQ dan lembar perbandingan yang dapat diverifikasi.
-Hasil yang harus terlihat: FAQ produk dan daftar keberatan.
+Tulis manfaat nyata produk, profil pembeli, masalah utama, dan pertanyaan umum. AI menyusun FAQ dan lembar perbandingan yang dapat diverifikasi.
 3. Praktik tingkat 2: Buat komunikasi yang manusiawi
-Langkah praktik: AI mengusulkan pesan pendek personal berdasarkan kebutuhan yang diberikan sah, bukan mengambil data personal tanpa izin. Simulasikan percakapan dan pilihan jawaban.
-Hasil yang harus terlihat: Template komunikasi awal dan follow-up.
+AI mengusulkan pesan pendek personal berdasarkan kebutuhan yang diberikan sah, bukan mengambil data personal tanpa izin. Simulasikan percakapan dan pilihan jawaban.
 4. Praktik tingkat 3: Buat pipeline penjualan
-Langkah praktik: Daftar tahapan lead baru, kebutuhan jelas, penawaran, follow-up, kesepakatan. Tentukan pemicu reminder dan alasan prospek batal.
-Hasil yang harus terlihat: Pipeline sederhana dan dashboard konversi.
+Daftar tahapan lead baru, kebutuhan jelas, penawaran, follow-up, kesepakatan. Tentukan pemicu reminder dan alasan prospek batal.
 5. Bila ingin otomatis
 Otomasi opsional: CRM menangkap formulir prospek yang memberi persetujuan, membuat ringkasan, menyusun draf follow-up. Pengiriman massal atau WhatsApp bot harus mengikuti aturan anti-spam/platform.
 6. Prompt siap salin
@@ -745,27 +655,19 @@ PROMPT 3
 Dari data pipeline berikut [data fiktif], hitung tingkat konversi dan prioritas follow-up dengan alasan.
 7. Batas keamanan dan mutu
 Jangan memakai daftar nomor tanpa persetujuan, pesan manipulatif, janji garansi palsu, atau memproses data pelanggan rahasia di alat yang belum diizinkan.
-PROYEK MINI PROFESI
+Proyek mini
 Buat paket penjualan satu produk: profil pembeli, FAQ, 4 skenario keberatan, 3 pesan tindak lanjut dan tabel pipeline.
-TANDA LULUS
-Penawaran akurat, kontak didasarkan izin dan follow-up dapat dihentikan oleh pelanggan.
-MODUL P12 | PILIH JIKA RELEVAN DENGAN KAMU
-Afiliator: dari nol sampai alur kerja
+P12 | Afiliator: dari nol sampai alur kerja
 Pembuat rekomendasi produk yang ingin membangun konten afiliasi secara legal, terbuka, dan terukur, bukan sekadar membagikan tautan.
 1. Peralatan dan biaya
 Alat/hardware: HP kamera + akses internet cukup untuk mulai. Tripod dan mic sederhana opsional. Laptop, aplikasi editing video, dan penyimpanan cloud membantu saat volume konten meningkat. Tidak perlu VPS untuk tahap awal.
 Software dan layanan: ChatGPT untuk riset dan naskah, program afiliasi resmi marketplace/platform, Canva/editor gratis, spreadsheet performa. Otomasi publish/analytics hanya jika API dan kebijakan platform mengizinkan.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Memilih program dan niche
-Langkah praktik: Pilih barang yang dipahami, cek syarat komisi, klaim, harga, retur, pajak dan larangan platform. Jangan mengaku menjadi mitra resmi jika tidak.
-Hasil yang harus terlihat: Tabel perbandingan 3 program/produk.
+Pilih barang yang dipahami, cek syarat komisi, klaim, harga, retur, pajak dan larangan platform. Jangan mengaku menjadi mitra resmi jika tidak.
 3. Praktik tingkat 2: Membuat konten yang jujur
-Langkah praktik: Kumpulkan spesifikasi dari penjual resmi, periksa kelebihan/kekurangan, buat skrip review yang tidak mengarang pengalaman, masukkan label tautan afiliasi.
-Hasil yang harus terlihat: Skrip video, caption, disclosure.
+Kumpulkan spesifikasi dari penjual resmi, periksa kelebihan/kekurangan, buat skrip review yang tidak mengarang pengalaman, masukkan label tautan afiliasi.
 4. Praktik tingkat 3: Menganalisis performa
-Langkah praktik: Catat tayangan, klik, order valid, retur, biaya konten, dan komisi bersih. AI membantu menghitung rasio dan memberi ide pengujian.
-Hasil yang harus terlihat: Laporan mingguan plus hipotesis.
+Catat tayangan, klik, order valid, retur, biaya konten, dan komisi bersih. AI membantu menghitung rasio dan memberi ide pengujian.
 5. Bila ingin otomatis
 Otomasi opsional: daftar ide konten, pengecekan harga manual/terizin, jadwal posting melalui tool resmi, ringkasan komisi dari laporan ekspor. Hindari bot klik, transaksi palsu dan spam.
 6. Prompt siap salin
@@ -777,27 +679,19 @@ PROMPT 3
 Analisis CSV komisi contoh berikut [data]. Hitung nilai transaksi valid, retur, komisi tercatat dan biaya; jangan menebak keuntungan tanpa data.
 7. Batas keamanan dan mutu
 Tidak ada jaminan pendapatan. Periksa lisensi gambar/video, batasan klaim, periklanan, komisi, pajak, dan aturan khusus produk yang diiklankan.
-PROYEK MINI PROFESI
+Proyek mini
 Buat satu kampanye afiliasi 2 minggu: tabel riset, 4 skrip jujur, jadwal, label afiliasi, dan lembar metrik.
-TANDA LULUS
-Mampu membedakan klik, penjualan valid dan komisi bersih; konten tidak menipu.
-MODUL P13 | PILIH JIKA RELEVAN DENGAN KAMU
-Programmer dan pembuat aplikasi
+P13 | Programmer dan pembuat aplikasi
 Pemula coding, developer, tester, pemilik proyek software, atau non-programmer yang ingin meminta agent membangun aplikasi dengan proses aman.
 1. Peralatan dan biaya
 Alat/hardware: Laptop/PC untuk coding lokal; minimal perangkat yang bisa menjalankan editor dan runtime proyek. Untuk web kecil 8 GB RAM bisa mencukupi, proyek container/test berat lebih nyaman 16 GB+. VPS hanya saat aplikasi harus online untuk orang lain.
 Software dan layanan: ChatGPT untuk belajar konsep, Codex untuk kode bila tersedia, Git/GitHub, VS Code/editor lain, terminal, Python/Node sesuai proyek. Cloud agent/CI dan hosting berbayar opsional sesuai kebutuhan.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Belajar dan membuat program kecil
-Langkah praktik: Tentukan tujuan yang jelas, alur pengguna dan cara mencoba. AI membuat program kalkulator/daftar tugas dengan instruksi instalasi dan tes sederhana.
-Hasil yang harus terlihat: Aplikasi kecil yang berjalan dan dapat diuji.
+Tentukan tujuan yang jelas, alur pengguna dan cara mencoba. AI membuat program kalkulator/daftar tugas dengan instruksi instalasi dan tes sederhana.
 3. Praktik tingkat 2: Mengelola perubahan dengan Git
-Langkah praktik: Buat repo, simpan baseline, gunakan branch, minta Codex membaca instruksi proyek, memperbaiki isu tertentu, tes dan diff. Jangan gabung perubahan jika belum ditinjau.
-Hasil yang harus terlihat: Commit jelas dan laporan uji.
+Buat repo, simpan baseline, gunakan branch, minta Codex membaca instruksi proyek, memperbaiki isu tertentu, tes dan diff. Jangan gabung perubahan jika belum ditinjau.
 4. Praktik tingkat 3: Menyiapkan rilis aman
-Langkah praktik: Minta paket lengkap dan dokumentasi, validasi backup, migrasi, kredensial, health check dan rollback. Server tujuan berubah hanya bila prosedur deployment dijalankan.
-Hasil yang harus terlihat: Rilis ZIP, checksum, dan petunjuk pemulihan.
+Minta paket lengkap dan dokumentasi, validasi backup, migrasi, kredensial, health check dan rollback. Server tujuan berubah hanya bila prosedur deployment dijalankan.
 5. Bila ingin otomatis
 Otomasi opsional: unit test/CI saat kode berubah, pembuatan ringkasan Pull Request, deployment staging. Jangan otomatis masuk produksi sebelum lulus keamanan, tes dan persetujuan.
 6. Prompt siap salin
@@ -809,27 +703,19 @@ PROMPT 3
 Perbaiki isu [isu] saja. Tambah tes regresi, jalankan tes, laporkan file berubah dan risiko. Jangan push/merge sebelum saya setuju.
 7. Batas keamanan dan mutu
 Jangan mengekspos API key/password, membuka port publik tanpa pengamanan, menghapus database sebelum backup, atau menganggap tes mock berarti deployment nyata sudah benar.
-PROYEK MINI PROFESI
+Proyek mini
 Buat aplikasi web kecil dengan autentikasi uji, data contoh, tes, README, dan paket rilis yang tidak menyertakan rahasia.
-TANDA LULUS
-Program berjalan, tes lulus, data uji tidak bercampur dengan produksi, dan ada rencana rollback.
-MODUL P14 | PILIH JIKA RELEVAN DENGAN KAMU
-Trader dan investor saham
+P14 | Trader dan investor saham
 Investor saham pemula/berpengalaman yang memakai AI untuk edukasi, membaca laporan resmi, mengolah OHLCV, menilai risiko, dan mencatat keputusan tanpa sinyal pasti.
 1. Peralatan dan biaya
 Alat/hardware: HP cukup untuk riset sederhana dan notifikasi; laptop nyaman untuk spreadsheet, grafik dan laporan. Sumber harga/aksi korporasi harus dari penyedia berizin/tepercaya. Tidak butuh VPS untuk analisis manual.
 Software dan layanan: ChatGPT untuk penjelasan, data emiten/IDX dan laporan resmi, spreadsheet portofolio, aplikasi sekuritas resmi. Tools chart dan data market berbayar hanya jika kebutuhan dan lisensi jelas.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Membaca emiten dari sumber asli
-Langkah praktik: Ambil laporan keuangan dan keterbukaan informasi, catat periode, satuan angka, laba, utang, arus kas dan risiko. AI membantu ringkasan dengan sumber.
-Hasil yang harus terlihat: Ficha perusahaan dan pertanyaan verifikasi.
+Ambil laporan keuangan dan keterbukaan informasi, catat periode, satuan angka, laba, utang, arus kas dan risiko. AI membantu ringkasan dengan sumber.
 3. Praktik tingkat 2: Menganalisis teknikal dengan disiplin
-Langkah praktik: Siapkan OHLCV bertanggal; hitung indikator dan risiko dengan asumsi jelas. Tandai harga basi, volume nol, suspend atau data hilang. Jangan memaksakan prediksi bila data tidak valid.
-Hasil yang harus terlihat: Ringkasan trend, volatilitas, volume dan catatan kualitas.
+Siapkan OHLCV bertanggal; hitung indikator dan risiko dengan asumsi jelas. Tandai harga basi, volume nol, suspend atau data hilang. Jangan memaksakan prediksi bila data tidak valid.
 4. Praktik tingkat 3: Rencana risiko berdasarkan posisi
-Langkah praktik: Masukkan kuantitas, rata-rata harga, batas risiko dan tujuan pribadi secara aman; AI membuat beberapa skenario (optimis/netral/pesimis), bukan perintah mutlak beli/jual.
-Hasil yang harus terlihat: Matriks skenario dan titik evaluasi.
+Masukkan kuantitas, rata-rata harga, batas risiko dan tujuan pribadi secara aman; AI membuat beberapa skenario (optimis/netral/pesimis), bukan perintah mutlak beli/jual.
 5. Bila ingin otomatis
 Otomasi opsional: ringkasan pengumuman IDX, berita emiten, pemantauan data dan alarm kualitas. Eksekusi transaksi hanya melalui broker sah dan tidak dilakukan otomatis hanya dari teks AI.
 6. Prompt siap salin
@@ -841,27 +727,19 @@ PROMPT 3
 Saya memiliki saham [kode] dengan posisi [contoh fiktif]. Buat tiga skenario pengelolaan risiko; jangan memberi perintah beli/jual mutlak.
 7. Batas keamanan dan mutu
 Risiko rugi permanen; harga dan berita berubah; rumor tidak sama dengan fakta. Analisis AI bukan pengganti nasihat profesional dan tidak menjamin keuntungan.
-PROYEK MINI PROFESI
+Proyek mini
 Buat analisis satu emiten memakai data contoh, 2 sumber primer dan 3 skenario risiko dengan bagian ketidakpastian.
-TANDA LULUS
-Analisis menyebut tanggal data, kualitas data, sumber, posisi dan batas kesimpulan.
-MODUL P15 | PILIH JIKA RELEVAN DENGAN KAMU
-Trader dan investor kripto
+P15 | Trader dan investor kripto
 Pembelajar blockchain/kripto yang ingin memahami aset, transaksi, tokenomics, risiko exchange, volume dan berita tanpa terpancing sinyal palsu.
 1. Peralatan dan biaya
 Alat/hardware: HP/laptop dengan autentikasi dua faktor dan aplikasi exchange resmi. Penggunaan hardware wallet dapat dipertimbangkan sesuai nilai risiko dan keterampilan. GPU/VPS tidak diperlukan untuk riset biasa.
 Software dan layanan: ChatGPT untuk edukasi dan analisis CSV, explorer blockchain resmi, dokumentasi proyek, penyedia data pasar, exchange yang sesuai aturan setempat. API key trading jangan dibagikan ke chat.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Memahami aset dan jaringan
-Langkah praktik: Bedakan koin/token, chain, bridge, stablecoin, staking, kustodian dan wallet mandiri. Minta tabel risiko dan biaya dari sumber resmi.
-Hasil yang harus terlihat: Peta aset dan istilah dasar.
+Bedakan koin/token, chain, bridge, stablecoin, staking, kustodian dan wallet mandiri. Minta tabel risiko dan biaya dari sumber resmi.
 3. Praktik tingkat 2: Memvalidasi data teknikal
-Langkah praktik: Masukkan OHLCV dan tanggal dari exchange/sumber tepercaya; periksa likuiditas, gap, delisting, perubahan pair dan volume nol.
-Hasil yang harus terlihat: Ringkasan pasar dengan kualitas data.
+Masukkan OHLCV dan tanggal dari exchange/sumber tepercaya; periksa likuiditas, gap, delisting, perubahan pair dan volume nol.
 4. Praktik tingkat 3: Mengelola risiko operasional
-Langkah praktik: Buat checklist transfer: jaringan, alamat, memo/tag, nominal uji, biaya, 2FA, phishing. Jangan pernah memberikan seed phrase/private key.
-Hasil yang harus terlihat: SOP transfer uji dan jurnal risiko.
+Buat checklist transfer: jaringan, alamat, memo/tag, nominal uji, biaya, 2FA, phishing. Jangan pernah memberikan seed phrase/private key.
 5. Bila ingin otomatis
 Otomasi opsional: alert harga atau pengumuman, backup export portofolio, ringkasan posisi. Bot auto-trading hanya setelah backtest realistis, manajemen akses dan pengawasan; tidak ada jaminan profit.
 6. Prompt siap salin
@@ -873,27 +751,19 @@ PROMPT 3
 Buat checklist transfer stablecoin uji lintas platform tanpa pernah meminta alamat asli atau seed phrase di chat.
 7. Batas keamanan dan mutu
 Hati-hati volatilitas, rug pull, smart-contract risk, phishing, kehilangan kunci, regulasi setempat, dan biaya tak terduga. Jangan menjanjikan ROI.
-PROYEK MINI PROFESI
+Proyek mini
 Buat panduan aset kripto fiktif: sumber proyek, kualitas OHLCV, pengamanan akun, jurnal transaksi dan simulasi risiko.
-TANDA LULUS
-Murid dapat menjelaskan keamanan private key dan analisis tidak dianggap instruksi trading.
-MODUL P16 | PILIH JIKA RELEVAN DENGAN KAMU
-Trader forex
+P16 | Trader forex
 Pelajar/pelaku perdagangan valas yang ingin memahami pair, spread, leverage, kalender ekonomi dan risiko serta menguji strategi dengan data yang benar.
 1. Peralatan dan biaya
 Alat/hardware: Laptop memudahkan analisis grafik serta jurnal; HP untuk mengawasi posisi. Internet stabil, akun broker resmi/terverifikasi dan 2FA lebih penting daripada mesin mahal. VPS hanya relevan bila menjalankan strategi otomatis 24 jam dan sudah teruji.
 Software dan layanan: ChatGPT untuk pendidikan, data OHLCV valas yang memiliki waktu/zona jelas, kalender ekonomi sumber resmi, spreadsheet jurnal, platform broker teregulasi sesuai wilayah.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Pahami mekanisme forex
-Langkah praktik: Pelajari pasangan mata uang, pip, lot, spread, swap, margin dan leverage dengan contoh hitungan. Hitung risiko sebelum simulasi.
-Hasil yang harus terlihat: Glosarium dan contoh biaya transaksi.
+Pelajari pasangan mata uang, pip, lot, spread, swap, margin dan leverage dengan contoh hitungan. Hitung risiko sebelum simulasi.
 3. Praktik tingkat 2: Buat jurnal dan aturan risiko
-Langkah praktik: Buat format sebelum masuk: alasan, tanggal, sumber harga, stop, ukuran posisi, batas rugi, emosi, hasil. AI membantu evaluasi jurnal anonim.
-Hasil yang harus terlihat: Jurnal simulasi dan rekap kebiasaan.
+Buat format sebelum masuk: alasan, tanggal, sumber harga, stop, ukuran posisi, batas rugi, emosi, hasil. AI membantu evaluasi jurnal anonim.
 4. Praktik tingkat 3: Backtest sederhana
-Langkah praktik: Gunakan data historis dengan zona waktu lengkap, masukkan spread/slippage, pisahkan periode pengembangan dan pengujian. Hindari klaim akurasi dari sampel kecil.
-Hasil yang harus terlihat: Laporan backtest dan skenario gagal.
+Gunakan data historis dengan zona waktu lengkap, masukkan spread/slippage, pisahkan periode pengembangan dan pengujian. Hindari klaim akurasi dari sampel kecil.
 5. Bila ingin otomatis
 Otomasi opsional: pengingat kalender ekonomi, rekap jurnal, simulasi strategi demo. VPS/EA untuk eksekusi otomatis hanya setelah prosedur risiko, monitoring, dan kepatuhan broker dipahami.
 6. Prompt siap salin
@@ -905,27 +775,19 @@ PROMPT 3
 Rancang backtest strategi sederhana memakai dataset OHLCV dengan asumsi biaya. Sebut risiko overfitting dan data bias.
 7. Batas keamanan dan mutu
 Forex berleverage berisiko rugi cepat. Pastikan legalitas broker; banyak iklan “robot profit pasti” menyesatkan. AI tidak dapat menjamin hasil backtest berlaku di masa depan.
-PROYEK MINI PROFESI
+Proyek mini
 Bangun simulasi 20 perdagangan fiktif dengan perhitungan risiko, spread, jurnal dan evaluasi tanpa transaksi nyata.
-TANDA LULUS
-Mampu menghitung risiko dan menjelaskan keterbatasan indikator/backtest.
-MODUL P17 | PILIH JIKA RELEVAN DENGAN KAMU
-Pedagang toko, warung dan UMKM
+P17 | Pedagang toko, warung dan UMKM
 Penjual makanan, warung, toko ritel, pedagang online, serta usaha keluarga yang ingin mengatur stok, margin, pesanan dan promosi sederhana.
 1. Peralatan dan biaya
 Alat/hardware: HP sudah cukup untuk catatan harian dan foto produk; printer label atau barcode scanner hanya jika volume transaksi membutuhkan. Laptop opsional untuk spreadsheet. VPS tidak perlu untuk toko kecil.
 Software dan layanan: ChatGPT Free, Google Sheets/Excel yang tersedia, kamera HP, aplikasi chat bisnis resmi, POS kasir bila diperlukan. Situs toko online dan software akuntansi opsional saat skala naik.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Menghitung harga jual
-Langkah praktik: Catat bahan, kemasan, ongkos, susut dan biaya tetap. AI membantu rumus harga pokok dan margin, pedagang mengecek ukuran/satuan.
-Hasil yang harus terlihat: Tabel HPP produk dan harga uji.
+Catat bahan, kemasan, ongkos, susut dan biaya tetap. AI membantu rumus harga pokok dan margin, pedagang mengecek ukuran/satuan.
 3. Praktik tingkat 2: Mengelola stok
-Langkah praktik: Buat daftar awal, barang masuk, terjual, rusak, batas minimum dan pemasok; gunakan data contoh dulu.
-Hasil yang harus terlihat: Kartu stok dan pengingat restock.
+Buat daftar awal, barang masuk, terjual, rusak, batas minimum dan pemasok; gunakan data contoh dulu.
 4. Praktik tingkat 3: Promosi produk tanpa menipu
-Langkah praktik: Minta caption sesuai audiens dan fakta stok/harga. Buat kalender posting dan template balasan pertanyaan; jangan mengarang diskon.
-Hasil yang harus terlihat: 10 caption, FAQ, dan jadwal promosi.
+Minta caption sesuai audiens dan fakta stok/harga. Buat kalender posting dan template balasan pertanyaan; jangan mengarang diskon.
 5. Bila ingin otomatis
 Otomasi opsional: formulir pesanan, ringkasan penjualan, notifikasi stok rendah melalui integrasi resmi. Konfirmasi pembayaran harus dari rekening/payment gateway, bukan sekadar screenshot pembeli.
 6. Prompt siap salin
@@ -937,27 +799,19 @@ PROMPT 3
 Buat 5 caption WhatsApp/Instagram untuk [produk] dengan harga dan stok yang benar, tanpa klaim berlebihan.
 7. Batas keamanan dan mutu
 Jangan menyimpan data kartu pelanggan, menyebar nomor pelanggan atau menerima bukti bayar palsu tanpa cek mutasi resmi. Pisahkan uang usaha dan pribadi.
-PROYEK MINI PROFESI
+Proyek mini
 Buat sistem sederhana 1 minggu: catatan stok, laba kotor harian, caption promosi dan SOP transaksi.
-TANDA LULUS
-Pedagang dapat menjelaskan sumber angka dan memeriksa pembayaran asli.
-MODUL P18 | PILIH JIKA RELEVAN DENGAN KAMU
-Pemasaran digital / pengelola kampanye
+P18 | Pemasaran digital / pengelola kampanye
 Pekerja digital marketing yang mengelola segmentasi, konten, iklan, landing page, SEO, pengukuran dan eksperimen.
 1. Peralatan dan biaya
 Alat/hardware: Laptop dengan spreadsheet dan browser beberapa tab; RAM 8-16 GB nyaman tergantung kerja. HP untuk cek kanal dan materi kreatif. VPS hanya jika membangun situs/aplikasi web sendiri yang perlu selalu online.
 Software dan layanan: ChatGPT, Search Console/analytics resmi, spreadsheet, platform iklan dan CMS yang digunakan bisnis. Alat analisis berbayar, automasi, CRM serta landing page builder opsional.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Memahami target dan pesan
-Langkah praktik: Buat persona berdasarkan data sah, masalah, kebutuhan, dan alasan memilih produk. Jangan menebak data demografi sensitif.
-Hasil yang harus terlihat: Matriks pesan per segmen.
+Buat persona berdasarkan data sah, masalah, kebutuhan, dan alasan memilih produk. Jangan menebak data demografi sensitif.
 3. Praktik tingkat 2: Membangun rencana kampanye
-Langkah praktik: Definisikan tujuan, KPI, anggaran, kanal, kalender, variasi headline dan desain. AI mengusulkan tetapi manusia menetapkan batas anggaran.
-Hasil yang harus terlihat: Campaign brief dan checklist tracking.
+Definisikan tujuan, KPI, anggaran, kanal, kalender, variasi headline dan desain. AI mengusulkan tetapi manusia menetapkan batas anggaran.
 4. Praktik tingkat 3: Mengevaluasi hasil nyata
-Langkah praktik: Unggah data hasil kampanye fiktif; hitung CTR, CPC, CPA, ROAS secara benar dengan satuan. Bedakan korelasi dan sebab.
-Hasil yang harus terlihat: Laporan metrik dan hipotesis A/B.
+Unggah data hasil kampanye fiktif; hitung CTR, CPC, CPA, ROAS secara benar dengan satuan. Bedakan korelasi dan sebab.
 5. Bila ingin otomatis
 Otomasi opsional: ringkasan laporan mingguan, perpindahan data dari iklan ke dashboard, draft rekomendasi. Jangan mengubah budget atau menyalakan kampanye tanpa persetujuan.
 6. Prompt siap salin
@@ -969,27 +823,19 @@ PROMPT 3
 Usulkan eksperimen A/B headline halaman penjualan; sebut hipotesis, metrik, durasi dan aturan berhenti.
 7. Batas keamanan dan mutu
 Privasi pelacakan, persetujuan pemasaran, aturan platform, data anak dan klaim industri terbatas harus dipatuhi. Jangan spam atau memalsukan testimoni.
-PROYEK MINI PROFESI
+Proyek mini
 Rancang kampanye kecil lengkap dengan brief, materi, tracking, simulasi hasil, dan laporan evaluasi.
-TANDA LULUS
-Kampanye memiliki sasaran terukur, data dapat diaudit, dan persetujuan anggaran jelas.
-MODUL P19 | PILIH JIKA RELEVAN DENGAN KAMU
-Freelancer dan penyedia jasa
+P19 | Freelancer dan penyedia jasa
 Penulis, konsultan, penerjemah, desainer, asisten virtual dan pekerja mandiri yang ingin menangani pesanan dari permintaan hingga tagihan secara rapi.
 1. Peralatan dan biaya
 Alat/hardware: HP untuk komunikasi dan pembayaran; laptop/PC untuk hasil dokumen, desain atau coding yang lebih serius. Mikrofon/headset opsional untuk rapat. VPS bukan kebutuhan umum kecuali menjual layanan aplikasi online.
 Software dan layanan: ChatGPT Free untuk brief dan draf, dokumen/kalender/spreadsheet gratis, email bisnis dan rekening/payment gateway resmi. CRM/invoice software bila jumlah klien meningkat.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Mengubah chat klien menjadi brief
-Langkah praktik: Catat hasil yang diminta, ukuran/format, revisi, tenggat, tarif, lisensi dan kriteria diterima. AI menyusun pertanyaan klarifikasi untuk dikonfirmasi.
-Hasil yang harus terlihat: Brief dan pertanyaan ke klien.
+Catat hasil yang diminta, ukuran/format, revisi, tenggat, tarif, lisensi dan kriteria diterima. AI menyusun pertanyaan klarifikasi untuk dikonfirmasi.
 3. Praktik tingkat 2: Menyiapkan deliverable yang bisa diperiksa
-Langkah praktik: Buat rencana, daftar aset, alur review internal, laporan status, dan file contoh. Pisahkan draft dari hasil final.
-Hasil yang harus terlihat: Paket hasil dan checklist QC.
+Buat rencana, daftar aset, alur review internal, laporan status, dan file contoh. Pisahkan draft dari hasil final.
 4. Praktik tingkat 3: Menutup proyek dengan pembayaran
-Langkah praktik: Siapkan email serah terima dan invoice fiktif; cocokkan jumlah, nama, tanggal dan perubahan ruang lingkup. Periksa pembayaran melalui layanan resmi.
-Hasil yang harus terlihat: Dokumen serah terima dan catatan invoice.
+Siapkan email serah terima dan invoice fiktif; cocokkan jumlah, nama, tanggal dan perubahan ruang lingkup. Periksa pembayaran melalui layanan resmi.
 5. Bila ingin otomatis
 Otomasi opsional: email baru  ->  kategori proyek  ->  draf pertanyaan  ->  tugas  ->  review manusia  ->  hasil final  ->  draf invoice. Jangan langsung mengirim ke klien atau menghapus data.
 6. Prompt siap salin
@@ -1001,27 +847,19 @@ PROMPT 3
 Tulis draf invoice jasa senilai [nilai fiktif] dengan nomor, tanggal dan pekerjaan; jangan mengirim atau menyebut sudah dibayar.
 7. Batas keamanan dan mutu
 Jangan memasukkan data klien sensitif tanpa persetujuan atau memakai contoh klien sebagai portofolio tanpa izin. Perjanjian, pajak, dan hak cipta perlu diperiksa sesuai aturan setempat.
-PROYEK MINI PROFESI
+Proyek mini
 Simulasikan satu proyek klien dari email masuk, klarifikasi, deliverable, 2 revisi, serah terima, sampai invoice fiktif.
-TANDA LULUS
-Freelancer dapat menelusuri setiap persetujuan, versi file dan status pembayaran tanpa klaim palsu.
-MODUL P20 | PILIH JIKA RELEVAN DENGAN KAMU
-Pekerjaan lain: buat modul khusus
+P20 | Pekerjaan lain: buat modul khusus
 Jalur untuk pekerjaan yang belum masuk buku, misalnya teknisi elektronik, petani, akuntan, perawat, koki, pengurus komunitas, peneliti, montir dan banyak lainnya.
 1. Peralatan dan biaya
 Alat/hardware: Guru tidak langsung menyarankan membeli laptop/VPS. Pertama pahami pekerjaan, perangkat yang sudah ada, lokasi penggunaan internet, dan data yang boleh diproses. Sarankan upgrade hanya jika betul-betul dibutuhkan.
 Software dan layanan: AI memilih kategori: asisten chat untuk ide/dokumen; alat file untuk pengolahan; media untuk konten; aplikasi profesi yang sah; API/otomasi untuk alur berulang. Periksa keselamatan dan aturan lisensi setiap alat.
-MULAI GRATIS TERLEBIH DAHULU
-Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
 2. Praktik tingkat 1: Tulis kebutuhan dengan bahasa bebas
-Langkah praktik: Misalnya: “Kebutuhan saya: saya peternak lele ingin mencatat pakan harian, biaya dan jadwal panen.” Guru mengurai tujuan dan menawarkan latihan data contoh.
-Hasil yang harus terlihat: Rencana modul S-001.
+Misalnya: “Kebutuhan saya: saya peternak lele ingin mencatat pakan harian, biaya dan jadwal panen.” Guru mengurai tujuan dan menawarkan latihan data contoh.
 3. Praktik tingkat 2: Buat tiga praktik bertingkat
-Langkah praktik: Mulai perintah chat sederhana, lalu dokumen/lembar kerja, lalu otomasi bila layak. Guru memberikan satu langkah per balasan.
-Hasil yang harus terlihat: Silabus mini dan prompt latihan.
+Mulai perintah chat sederhana, lalu dokumen/lembar kerja, lalu otomasi bila layak. Guru memberikan satu langkah per balasan.
 4. Praktik tingkat 3: Validasi hasil serta biaya
-Langkah praktik: Cek apakah tugas menuntut standar profesi, data sensitif, keselamatan atau izin. Beri alternatif manual jika AI tidak cocok.
-Hasil yang harus terlihat: Checklist risiko dan pilihan alat.
+Cek apakah tugas menuntut standar profesi, data sensitif, keselamatan atau izin. Beri alternatif manual jika AI tidak cocok.
 5. Bila ingin otomatis
 Guru dapat mendesain alur kerja spesifik dengan persetujuan murid: sumber data, output, akun, pemicu, log, biaya, dan prosedur berhenti. Modul S yang dibuat perlu disimpan sebagai PDF/teks tersendiri oleh murid.
 6. Prompt siap salin
@@ -1033,77 +871,26 @@ PROMPT 3
 Kebutuhan saya: [pekerjaan saya], tujuan saya [hasil], alat yang saya punya [HP/laptop], anggaran [gratis/terbatas]. Buat modul khusus langkah demi langkah.
 7. Batas keamanan dan mutu
 Guru tidak boleh berpura-pura menguasai peraturan khusus suatu profesi; pekerjaan kesehatan, konstruksi, hukum dan keuangan memerlukan verifikasi/penanggung jawab. Tidak semua pekerjaan cocok diotomasi.
-PROYEK MINI PROFESI
+Proyek mini
 Pilih bidang yang tidak ada dalam daftar. Minta guru menyusun modul S-001 berisi tujuan, perangkat, langkah gratis, tiga latihan dan cara verifikasi.
-TANDA LULUS
-Murid mendapatkan modul relevan dengan alat dan anggarannya, tanpa janji fitur yang tidak tersedia.
-LAMPIRAN C01 - PERINTAH YANG HARUS MURID KETAHUI
-Kata kunci berikut adalah kesepakatan cara belajar dalam referensi modul, bukan tombol khusus platform. Pakai setelah AI berhasil membaca referensi atau teks cadangan.
-KATA KUNCI	MAKSUD	CATATAN
-MULAI BELAJAR	Mulai orientasi dari awal	Untuk chat yang sudah baca buku
-MATERI DASAR-04	Langsung ke prompt	Akan dicek prasyarat keamanan
-PROFESI P13	Mulai jalur programmer	Bidang lain tidak wajib
-KEBUTUHAN SAYA: ...	Minta modul baru sesuai pekerjaan	Modul baru belum menjadi file asli
-LANJUT	Lanjut submateri berjalan	Butuh konteks chat yang sama
-ULANG	Penjelasan lebih sederhana	Jika tidak paham
-KUIS	Tiga pertanyaan	Satu per satu
-SIMPAN PROGRES	Membuat catatan portabel untuk pindah chat	Menghasilkan checkpoint
-LANJUT BELAJAR	Memulihkan dari catatan	Tempel checkpoint di chat baru
-Kartu 1 - Mulai dari akun baru
-SALIN SELURUH TEKS DI DALAM KOTAK INI
-Saya ingin belajar dari buku Akademi AI Praktis. Buka dan baca panduan mengajar serta materi awal di:
-https://aangithb.github.io/catatan-belajar-e31/
-Bimbing saya dengan bahasa Indonesia sederhana, satu langkah setiap balasan. Mulai ORIENTASI-01 dari teks asli yang berhasil dibaca. Untuk bab berikutnya, buka tautan bab terkait pada halaman tersebut. Jika akses gagal, katakan belum bisa membacanya. Jangan meminta unggahan PDF atau panduan pengajar. Jangan mengarang isi buku.
-AKHIR TEKS YANG DISALIN
-Kartu 2 - Mulai cabang pekerjaan
-SALIN SELURUH TEKS DI DALAM KOTAK INI
-Saya ingin belajar jalur PROFESI P13 dari buku ini. Bimbing saya satu langkah setiap balasan. Jika bagian buku belum terbaca, minta saya menyalin materi P13 dari PDF.
-AKHIR TEKS YANG DISALIN
-P13 adalah contoh jalur programmer. Ganti P13 dengan kode bidang pilihan Anda pada daftar isi.
-Kartu 3 - Modul pekerjaan baru
-PROMPT TINGGAL SALIN
-Kebutuhan saya: [pekerjaan dan tujuan]. Perangkat saya: [HP/laptop]. Anggaran: [gratis/nominal]. Buat MODUL KHUSUS S-001 sesuai referensi pengajar AI, mulai dari alat gratis, 3 praktik bertingkat, tes dan batas keselamatan. Tanyakan satu detail hanya bila perlu.
-Kartu 4 - Simpan checkpoint sebelum keluar
-PROMPT TINGGAL SALIN
-SIMPAN PROGRES. Buat CATATAN BELAJAR PORTABEL singkat: versi buku, bab terakhir, yang sudah dipahami, latihan, kesulitan, jalur profesi, alat tersedia, risiko, dan langkah berikutnya. Jangan sertakan rahasia.
-Kartu 5 - Lanjut di chat atau akun lain
-SALIN SELURUH TEKS DI DALAM KOTAK INI
-Saya ingin melanjutkan belajar Akademi AI Praktis. Buka dan baca panduan serta bab yang diperlukan dari:
-https://aangithb.github.io/catatan-belajar-e31/
-Berikut catatan belajar saya: [tempel catatan yang sudah disimpan]. Lanjutkan dari langkah berikutnya, satu langkah setiap balasan. Jika bahan tidak terbaca, jelaskan dengan jujur dan minta hanya teks bab yang diperlukan dari PDF murid. Jangan meminta unggahan PDF atau panduan pengajar. Jangan mengarang isi buku.
-AKHIR TEKS YANG DISALIN
-Kartu 6 Jika referensi belum dapat dibaca
-SALIN SELURUH TEKS DI DALAM KOTAK INI
-Tolong ajarkan materi yang saya salin setelah pesan ini. Gunakan bahasa sederhana, satu langkah setiap balasan, lalu tunggu jawaban saya. Jangan mengaku membaca bagian buku yang belum saya kirim.
-AKHIR TEKS YANG DISALIN
-Setelah mengirim pesan di atas, salin dan kirim materi bab pilihan Anda dari PDF ini.
-LAMPIRAN C02 - MEMBUAT KELAS 30 MENIT YANG MENYENANGKAN
-MENIT	APA YANG DILAKUKAN	CONTOH
-0-3	Kenalan & satu tujuan	Hari ini kita bisa membuat prompt yang jelas.
-3-8	Guru memberi satu analogi	Prompt = pesan titipan belanja.
-8-12	Contoh buruk vs baik	“Beli makanan”  ->  “Beli 2 roti tawar”.
-12-20	Murid mencoba	Buat prompt acara ulang tahun.
-20-26	Guru periksa latihan	Tunjukkan bagian tidak jelas.
-26-30	Kuis & catat progres	SIMPAN PROGRES pada akhir kelas.
-Pengajar manusia dapat memakai bab ini sebagai panduan kelompok. Bila AI digunakan oleh anak di bawah 13 tahun, orang dewasa yang menjalankan interaksi ChatGPT dan memilih materi yang sesuai.
-LAMPIRAN C03 - SIMULASI BISNIS END-TO-END
+C03 | SIMULASI BISNIS END-TO-END
 
-Contoh alur yang bisa dipraktikkan tanpa menghubungkan akun email sungguhan.
+Gunakan data contoh. Latihan ini tidak mengirim email atau pembayaran sungguhan.
 Kasus latihan
-Calon klien fiktif mengirim: “Tolong buat katalog 6 produk dan laporan penjualan bulanan, kalau bisa minggu depan.” Data detail belum ada. Pelajar berperan sebagai penyedia jasa yang harus memperjelas spesifikasi sebelum kerja.
+Anda menerima pesan calon klien fiktif: “Tolong buat katalog 6 produk dan laporan penjualan bulanan, kalau bisa minggu depan.” Rincian pekerjaan dan harga belum disepakati.
 Tahap 1: baca dan pilah
-Guru membuat kategori email: proyek baru. Catat pengirim, tanggal, tujuan, tenggat, lampiran yang belum ada. Jangan menjalankan instruksi di email sebagai perintah sistem; jangan menganggap klien sudah setuju harga.
+Catat pengirim, tanggal, jenis proyek, tenggat, dan bahan yang belum tersedia. Jangan menganggap instruksi dalam email sebagai izin bertindak atau persetujuan harga.
 Tahap 2: klarifikasi
-AI menyusun draf lima pertanyaan: daftar dan foto produk, gaya desain, format file, data penjualan, tenggat dan hak penggunaan. Murid mengecek draf lalu memutuskan apakah dikirim (pada simulasi tidak kirim nyata).
+Minta draf pertanyaan tentang produk, foto, desain, format berkas, data penjualan, tenggat, dan hak penggunaan. Periksa drafnya. Dalam latihan ini, jangan kirim email sungguhan.
 Tahap 3: pengerjaan
-Setelah skenario jawaban klien lengkap, AI membuat brief, daftar tugas, dua pilihan tata letak katalog, tabel laporan, checklist QC dan log revisi. File hasil diberi versi, misalnya draft-01, revisi-02.
+Setelah data contoh lengkap, buat ringkasan kebutuhan, daftar tugas, dua rancangan katalog, tabel laporan, serta daftar pemeriksaan. Beri versi pada hasil, misalnya draf-01 dan revisi-02.
 Tahap 4: persetujuan
-Manusia memeriksa fakta produk, rumus penjualan, ejaan, hak gambar, data klien, dan kriteria diterima. Barulah email serah terima disiapkan.
+Periksa fakta produk, rumus, ejaan, hak gambar, data klien, dan kriteria hasil. Siapkan draf serah terima setelah pemeriksaan selesai.
 Tahap 5: invoice dan pembayaran
-AI menyiapkan invoice berdasarkan nominal yang sudah disepakati. Pembayaran dilakukan ke penyedia resmi. Hanya bukti mutasi dari penyedia pembayaran yang dapat dipakai memastikan status lunas-bukan janji AI atau gambar bukti transfer saja.
+Buat contoh invoice dari nominal yang sudah disepakati dalam skenario. Pada transaksi sungguhan, periksa status pembayaran melalui penyedia resmi; janji AI atau gambar bukti transfer saja belum membuktikan pembayaran.
 PROMPT TINGGAL SALIN
 Simulasikan kamu sebagai asisten usaha jasa. Berikut email calon klien fiktif: [tempel]. Lakukan hanya klasifikasi dan brief, tulis 5 pertanyaan klarifikasi terpenting. Jangan kirim apa pun, jangan membuat harga atau tanggal pasti tanpa data.
-LAMPIRAN C04 - CONTOH ALUR AFILIASI JANGKA PANJANG
+C04 | CONTOH ALUR AFILIASI JANGKA PANJANG
 1. Persiapan
 Tentukan topik yang dipahami, pilih program legal, cek syarat komisi/retur, buat daftar 10 calon produk. Jangan membeli software mahal sebelum tahu aturan program dan ada ide konten yang masuk akal.
 2. Konten dan bukti
@@ -1114,7 +901,7 @@ Catat setiap konten, durasi produksi, tayangan, klik, konversi valid, biaya, ret
 Jika jadwal konten sudah konsisten, gunakan alat penjadwalan resmi. Jika butuh mengambil laporan otomatis, cari API/laporan ekspor yang disetujui platform. Hindari scraping yang melanggar syarat dan bot klik palsu.
 PROMPT TINGGAL SALIN
 Dari data performa afiliasi berikut [tabel], buat ringkasan konten dengan klik tertinggi, penjualan valid, retur, komisi bersih, dan dua eksperimen untuk minggu berikutnya. Jangan mengarang data atau menjanjikan pendapatan.
-LAMPIRAN C05 - MEMILIH HARDWARE DAN CLOUD DENGAN AKAL SEHAT
+C05 | MEMILIH HARDWARE DAN CLOUD DENGAN AKAL SEHAT
 KASUS	ALAT AWAL YANG CUKUP	TAMBAHAN JIKA PERLU
 Belajar AI/chat	HP/laptop + internet	Headset untuk Voice
 Guru/admin	Laptop + aplikasi dokumen	Printer/scanner jika dibutuhkan
@@ -1124,34 +911,8 @@ Coding web sederhana	Laptop 8GB bisa mencukupi	16GB+ dan SSD untuk banyak contai
 AI model lokal	Komputer yang kompatibel	RAM/GPU sesuai ukuran model
 Bot 24 jam / web app publik	Mulai uji lokal	VPS berbayar + keamanan + backup
 Angka memori di tabel adalah perkiraan kenyamanan kerja, bukan syarat universal. Harga VPS, paket AI, listrik, internet, pajak, cloud dan lisensi berbeda menurut penyedia dan waktu. Bandingkan kebutuhan proyek nyata sebelum berbelanja.
-LAMPIRAN C06 - MASALAH UMUM PEMULA & CARA MENGATASINYA
-MASALAH	COBA LANGKAH INI
-Tidak bisa masuk akun	Periksa alamat resmi; coba jalur login yang pernah dipakai; jangan bagikan OTP.
-Tombol + tidak ada	Pastikan login; cek versi aplikasi, model dan lokasi tombol. Coba browser.
-Batas unggah	Jangan unggah berkali-kali; tunggu reset atau salin teks bab yang diperlukan.
-AI tidak baca PDF	Minta AI menyebut judul dan isi bab; jika gagal, kirim ulang/teks bagian.
-AI selalu mengulang pelajaran	Tempel checkpoint dan kode bab; minta lanjut subbab berikut.
-AI jawab teknis sekali	Ketik “ULANG seperti untuk pemula, beri analogi.”
-AI salah angka	Minta rumus, satuan, sumber dan contoh perhitungan ulang.
-Hasil file tidak ada	Minta file yang benar-benar dapat diunduh; jangan terima klaim kosong.
-Koneksi akun tidak jalan	Periksa Plugin, izin, paket dan status login di layanan resmi.
-Biaya membengkak	Tinjau langganan, credit, API, hosting dan pemicu otomatis; hentikan yang tidak perlu.
-Chat baru lupa konteks	Tempel prompt awal dan catatan belajar. Jika tautan gagal, salin teks bab yang diperlukan.
-Kata “Kebutuhan saya” tidak dipahami	Tulis KEBUTUHAN SAYA diikuti pekerjaan dan tujuan Anda.
-LAMPIRAN C07 - HAK KARYA, MEREK DAN PENJUALAN BUKU
-Buku ini disiapkan sebagai materi orisinal yang dapat dipertimbangkan untuk produk berbayar. Namun sebelum dipasarkan perlu penyuntingan akhir, uji pada akun Free sungguhan dan pemeriksaan hak materi, gambar, merek, contoh produk, serta ketentuan dari layanan AI yang dibahas.
-Bukan produk resmi OpenAI
-Judul Akademi AI Praktis adalah nama buku independen. “ChatGPT”, “OpenAI”, dan merek lain disebut hanya untuk menjelaskan layanan. Jangan mengklaim buku ini disahkan, dibuat, didanai, atau dijamin oleh penyedia layanan tersebut. Hindari menggunakan logo mereka sebagai logo buku tanpa mematuhi pedoman merek.
-Apa yang dijual?
-Pembeli membeli materi buku dan metode belajar; akun ChatGPT, aplikasi pihak ketiga, jasa internet, API, VPS dan langganan berbayar bukan bagian dari harga buku kecuali diterangkan secara terpisah. Tidak ada jaminan murid mendapatkan pekerjaan/penghasilan.
-Uji penggunaan sebelum penjualan
-Minta pemula Android, iPhone dan Windows menguji prompt tanpa unggahan wajib, kegagalan tautan, teks cadangan, latihan, serta pindah chat. Catat hasil nyata; revisi berdasarkan bukti sebelum penjualan.
-Privasi penjualan
-Jangan meminta pembeli mengirim tangkapan layar akun, password atau isi chat pribadi untuk pembuktian kelas. Jika memakai nomor lisensi/akun pembeli, jelaskan aturan privasi dan pemrosesan data.
-CATATAN PENYUNTINGAN
-Edisi ini adalah DRAF komersial: nama penulis/penerbit, nomor ISBN (bila ingin), hak cipta, desain final sampul, harga jual, mekanisme pembaruan, dan uji pembaca harus ditetapkan penerbit sebelum penjualan. Tidak ada pengesahan atau afiliasi dengan OpenAI.
-LAMPIRAN C08 - SUMBER RESMI DAN CATATAN KEBARUAN
-Materi sumber disusun 15 Oktober 2026. Pemisahan panduan disiapkan 19 Oktober 2026; perubahan ini bukan pemeriksaan ulang seluruh fitur, tarif atau kebijakan. Periksa rujukan resmi saat dipakai. Tidak semua fitur tersedia dalam semua paket, akun, wilayah dan perangkat.
+C08 | SUMBER RESMI DAN CATATAN KEBARUAN
+Materi sumber disusun 15 Oktober 2026. Susunan buku murid dirapikan 20 Oktober 2026; ini bukan pemeriksaan ulang seluruh fitur, tarif, atau kebijakan layanan. Periksa rujukan resmi saat diperlukan. Fitur dapat berbeda menurut paket, akun, wilayah, dan perangkat.
 ChatGPT situs utama: https://chatgpt.com/
 Unduh aplikasi resmi: https://chatgpt.com/id-ID/download/
 Batas unggah file termasuk Free: https://help.openai.com/en/articles/8555545-uploading-files-and-audio-to-chatgpt
@@ -1169,3 +930,251 @@ Ruang catatan murid
 __________________________________________________________________________________
 __________________________________________________________________________________
 __________________________________________________________________________________
+
+CATATAN KHUSUS PENGAJAR
+ORIENTASI-01
+LATIHAN MURID
+Tunjukkan perangkat yang tersedia dan pilih: browser saja atau aplikasi resmi. Tuliskan satu kalimat alasan.
+BUKTI SUDAH PAHAM
+Murid bisa menyebut perangkat, sumber aplikasi resmi, dan cara menjaga OTP/kata sandi.
+ORIENTASI-02
+LATIHAN MURID
+Buka ChatGPT dan ketik satu pesan. Jika tombol berbeda dari buku, ceritakan tulisan tombol yang terlihat.
+BUKTI SUDAH PAHAM
+Murid berhasil mengetik satu pesan dan membaca balasan tanpa memasukkan rahasia.
+ORIENTASI-03
+Latihan
+Kirim pesan awal dari petunjuk penggunaan, lalu jawab satu pertanyaan pertama dengan keadaan Anda sendiri.
+Bukti sudah paham
+Anda berhasil mengirim pesan, memahami satu balasan awal, dan tahu cara meminta bantuan ketika tautan gagal dibaca.
+ORIENTASI-04
+LATIHAN MURID
+Minta SIMPAN PROGRES, salin ke Notes/Notepad, dan pastikan teks dapat dibuka kembali.
+BUKTI SUDAH PAHAM
+Murid bisa memulihkan konteks pada chat baru tanpa mengklaim riwayat otomatis terbawa.
+DASAR-01
+BUKTI SUDAH PAHAM
+Dapat menjelaskan beda model, aplikasi, agent, cloud dan lokal memakai analogi sederhana.
+DASAR-02
+BUKTI SUDAH PAHAM
+Murid paham bahwa AI memiliki banyak jenis dan alat dipilih berdasarkan pekerjaan.
+DASAR-03
+BUKTI SUDAH PAHAM
+Dapat memilih Chat, Search, Research, Work atau Codex dengan alasan yang benar.
+DASAR-04
+BUKTI SUDAH PAHAM
+Murid mampu membuat permintaan yang tidak ambigu dan mempunyai kriteria sukses.
+DASAR-05
+BUKTI SUDAH PAHAM
+Bisa mengurangi revisi, memilih alat yang cukup, dan menghindari klaim hasil tanpa bukti.
+DASAR-06
+BUKTI SUDAH PAHAM
+Murid bisa membedakan fakta dengan pendapat dan tahu kapan tidak boleh percaya AI.
+DASAR-07
+BUKTI SUDAH PAHAM
+Dapat memberi perintah berbasis berkas tanpa membocorkan data penting.
+DASAR-08
+BUKTI SUDAH PAHAM
+Murid bisa menjelaskan izin minimum dan apa yang harus dirahasiakan.
+DASAR-09
+Murid bisa melanjutkan di akun baru dengan referensi modul atau teks cadangan serta catatan singkat.
+DASAR-10
+BUKTI SUDAH PAHAM
+Murid paham perbedaan memberi jawaban, memakai agen dan mengembangkan kode.
+DASAR-11
+BUKTI SUDAH PAHAM
+Murid dapat menjelaskan kapan butuh integrasi khusus dan manusia.
+DASAR-12
+Spesifikasi sekadar panduan, bukan syarat resmi
+Chat teks: HP/PC yang lancar browsing. Kantor multi-tab: laptop dengan memori 8 GB terasa lebih nyaman; pekerjaan video/desain lebih berat bisa perlu RAM 16 GB+, SSD luas dan GPU; model AI lokal besar mungkin butuh GPU khusus. Sesuaikan aplikasi nyata dan anggaran. Jangan beli spesifikasi tinggi untuk tugas yang belum teruji.
+BUKTI SUDAH PAHAM
+Murid tahu bedanya Free, langganan, tarif API, dan sewa VPS.
+P01
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Satu halaman rencana pembelajaran + latihan mudah.
+Hasil yang harus terlihat: Rubrik transparan dan lembar kerja 3 tingkat.
+Hasil yang harus terlihat: Bank soal beserta pembahasan dan pembenaran.
+TANDA LULUS
+Guru dapat mengajar materi tanpa AI di depan siswa dan bisa membuktikan isi soal serta rubrik cocok dengan kurikulum.
+P02
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Cerita pendek + 3 pertanyaan pemahaman.
+Hasil yang harus terlihat: Kartu soal dan petunjuk bertahap.
+Hasil yang harus terlihat: Lembar observasi harian dengan gambar.
+TANDA LULUS
+Anak belajar dengan pendamping, mencoba sendiri sebelum diberi jawaban, dan tidak mengungkapkan data pribadi.
+P03
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Catatan konsep + satu solusi dengan langkah.
+Hasil yang harus terlihat: Kartu hafalan, kuis, laporan salah paham.
+Hasil yang harus terlihat: Slide berisi ide sendiri dan daftar sumber.
+TANDA LULUS
+Siswa mampu menjelaskan materi sendiri dan menuliskan kapan AI digunakan dalam tugas.
+P04
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Rangkuman bab dan peta konsep.
+Hasil yang harus terlihat: Tabel sumber, metode, hasil, keterbatasan.
+Hasil yang harus terlihat: Notebook analisis + catatan validasi.
+TANDA LULUS
+Mahasiswa bisa mempertanggungjawabkan metode, sumber, serta bagian yang dibantu AI.
+P05
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Notulen + daftar tindak lanjut.
+Hasil yang harus terlihat: Daftar temuan dan file pembanding.
+Hasil yang harus terlihat: SOP satu halaman, template email, checklist.
+TANDA LULUS
+Paket bisa dipakai tanpa mengubah angka, membocorkan rahasia atau mengirim email tanpa izin.
+P06
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Brief klien + daftar pertanyaan.
+Hasil yang harus terlihat: Matriks ruang dan konsep sirkulasi.
+Hasil yang harus terlihat: Deck pilihan konsep dengan catatan asumsi.
+TANDA LULUS
+Pekerjaan memisahkan ilustrasi konsep, ukuran yang terukur, dan tanggung jawab desain profesional.
+P07
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Daftar RFI dengan prioritas dan referensi dokumen.
+Hasil yang harus terlihat: Tabel estimasi dengan satuan dan asumsi.
+Hasil yang harus terlihat: Daily report dan daftar risiko.
+TANDA LULUS
+Perhitungan dapat ditelusuri ke sumber, satuan jelas, dan keputusan keselamatan tetap di tangan profesional.
+P08
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Kalender 2 minggu dan metrik tujuan.
+Hasil yang harus terlihat: Naskah video 30-90 detik dan shot list.
+Hasil yang harus terlihat: Paket konten multi-platform dengan log revisi.
+TANDA LULUS
+Dapat menerbitkan konten dengan sumber, izin dan klaim jujur; alat mahal tidak wajib.
+P09
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Moodboard tekstual + tiga konsep.
+Hasil yang harus terlihat: Daftar produksi dan file final sesuai brief.
+Hasil yang harus terlihat: Halaman portofolio dan presentasi.
+TANDA LULUS
+Menghasilkan karya yang bisa dijelaskan serta diperiksa hak penggunaan dan ukuran final.
+P10
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Dashboard ringkas dengan asumsi.
+Hasil yang harus terlihat: SOP 1 halaman dan alur eskalasi.
+Hasil yang harus terlihat: Memo 3 opsi dan matriks risiko.
+TANDA LULUS
+Mampu membedakan angka asli dari proyeksi dan keputusan tetap punya penanggung jawab.
+P11
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: FAQ produk dan daftar keberatan.
+Hasil yang harus terlihat: Template komunikasi awal dan follow-up.
+Hasil yang harus terlihat: Pipeline sederhana dan dashboard konversi.
+TANDA LULUS
+Penawaran akurat, kontak didasarkan izin dan follow-up dapat dihentikan oleh pelanggan.
+P12
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Tabel perbandingan 3 program/produk.
+Hasil yang harus terlihat: Skrip video, caption, disclosure.
+Hasil yang harus terlihat: Laporan mingguan plus hipotesis.
+TANDA LULUS
+Mampu membedakan klik, penjualan valid dan komisi bersih; konten tidak menipu.
+P13
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Aplikasi kecil yang berjalan dan dapat diuji.
+Hasil yang harus terlihat: Commit jelas dan laporan uji.
+Hasil yang harus terlihat: Rilis ZIP, checksum, dan petunjuk pemulihan.
+TANDA LULUS
+Program berjalan, tes lulus, data uji tidak bercampur dengan produksi, dan ada rencana rollback.
+P14
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Ficha perusahaan dan pertanyaan verifikasi.
+Hasil yang harus terlihat: Ringkasan trend, volatilitas, volume dan catatan kualitas.
+Hasil yang harus terlihat: Matriks skenario dan titik evaluasi.
+TANDA LULUS
+Analisis menyebut tanggal data, kualitas data, sumber, posisi dan batas kesimpulan.
+P15
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Peta aset dan istilah dasar.
+Hasil yang harus terlihat: Ringkasan pasar dengan kualitas data.
+Hasil yang harus terlihat: SOP transfer uji dan jurnal risiko.
+TANDA LULUS
+Murid dapat menjelaskan keamanan private key dan analisis tidak dianggap instruksi trading.
+P16
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Glosarium dan contoh biaya transaksi.
+Hasil yang harus terlihat: Jurnal simulasi dan rekap kebiasaan.
+Hasil yang harus terlihat: Laporan backtest dan skenario gagal.
+TANDA LULUS
+Mampu menghitung risiko dan menjelaskan keterbatasan indikator/backtest.
+P17
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Tabel HPP produk dan harga uji.
+Hasil yang harus terlihat: Kartu stok dan pengingat restock.
+Hasil yang harus terlihat: 10 caption, FAQ, dan jadwal promosi.
+TANDA LULUS
+Pedagang dapat menjelaskan sumber angka dan memeriksa pembayaran asli.
+P18
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Matriks pesan per segmen.
+Hasil yang harus terlihat: Campaign brief dan checklist tracking.
+Hasil yang harus terlihat: Laporan metrik dan hipotesis A/B.
+TANDA LULUS
+Kampanye memiliki sasaran terukur, data dapat diaudit, dan persetujuan anggaran jelas.
+P19
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Brief dan pertanyaan ke klien.
+Hasil yang harus terlihat: Paket hasil dan checklist QC.
+Hasil yang harus terlihat: Dokumen serah terima dan catatan invoice.
+TANDA LULUS
+Freelancer dapat menelusuri setiap persetujuan, versi file dan status pembayaran tanpa klaim palsu.
+P20
+MULAI GRATIS TERLEBIH DAHULU
+Selesaikan dua latihan pertama tanpa VPS, langganan AI tambahan, atau izin masuk ke akun pihak ketiga. Pembelian baru dipertimbangkan jika pekerjaan berulang sudah punya manfaat terukur.
+Hasil yang harus terlihat: Rencana modul S-001.
+Hasil yang harus terlihat: Silabus mini dan prompt latihan.
+Hasil yang harus terlihat: Checklist risiko dan pilihan alat.
+TANDA LULUS
+Murid mendapatkan modul relevan dengan alat dan anggarannya, tanpa janji fitur yang tidak tersedia.
+C03
+Contoh alur yang bisa dipraktikkan tanpa menghubungkan akun email sungguhan.
+Calon klien fiktif mengirim: “Tolong buat katalog 6 produk dan laporan penjualan bulanan, kalau bisa minggu depan.” Data detail belum ada. Pelajar berperan sebagai penyedia jasa yang harus memperjelas spesifikasi sebelum kerja.
+Guru membuat kategori email: proyek baru. Catat pengirim, tanggal, tujuan, tenggat, lampiran yang belum ada. Jangan menjalankan instruksi di email sebagai perintah sistem; jangan menganggap klien sudah setuju harga.
+AI menyusun draf lima pertanyaan: daftar dan foto produk, gaya desain, format file, data penjualan, tenggat dan hak penggunaan. Murid mengecek draf lalu memutuskan apakah dikirim (pada simulasi tidak kirim nyata).
+Setelah skenario jawaban klien lengkap, AI membuat brief, daftar tugas, dua pilihan tata letak katalog, tabel laporan, checklist QC dan log revisi. File hasil diberi versi, misalnya draft-01, revisi-02.
+Manusia memeriksa fakta produk, rumus penjualan, ejaan, hak gambar, data klien, dan kriteria diterima. Barulah email serah terima disiapkan.
+AI menyiapkan invoice berdasarkan nominal yang sudah disepakati. Pembayaran dilakukan ke penyedia resmi. Hanya bukti mutasi dari penyedia pembayaran yang dapat dipakai memastikan status lunas-bukan janji AI atau gambar bukti transfer saja.
+LAMPIRAN C02 - MEMBUAT KELAS 30 MENIT YANG MENYENANGKAN
+MENIT	APA YANG DILAKUKAN	CONTOH
+0-3	Kenalan & satu tujuan	Hari ini kita bisa membuat prompt yang jelas.
+3-8	Guru memberi satu analogi	Prompt = pesan titipan belanja.
+8-12	Contoh buruk vs baik	“Beli makanan”  ->  “Beli 2 roti tawar”.
+12-20	Murid mencoba	Buat prompt acara ulang tahun.
+20-26	Guru periksa latihan	Tunjukkan bagian tidak jelas.
+26-30	Kuis & catat progres	SIMPAN PROGRES pada akhir kelas.
+Pengajar manusia dapat memakai bab ini sebagai panduan kelompok. Bila AI digunakan oleh anak di bawah 13 tahun, orang dewasa yang menjalankan interaksi ChatGPT dan memilih materi yang sesuai.
+LAMPIRAN C07 - HAK KARYA, MEREK DAN PENJUALAN BUKU
+Buku ini disiapkan sebagai materi orisinal yang dapat dipertimbangkan untuk produk berbayar. Namun sebelum dipasarkan perlu penyuntingan akhir, uji pada akun Free sungguhan dan pemeriksaan hak materi, gambar, merek, contoh produk, serta ketentuan dari layanan AI yang dibahas.
+Bukan produk resmi OpenAI
+Judul Akademi AI Praktis adalah nama buku independen. “ChatGPT”, “OpenAI”, dan merek lain disebut hanya untuk menjelaskan layanan. Jangan mengklaim buku ini disahkan, dibuat, didanai, atau dijamin oleh penyedia layanan tersebut. Hindari menggunakan logo mereka sebagai logo buku tanpa mematuhi pedoman merek.
+Apa yang dijual?
+Pembeli membeli materi buku dan metode belajar; akun ChatGPT, aplikasi pihak ketiga, jasa internet, API, VPS dan langganan berbayar bukan bagian dari harga buku kecuali diterangkan secara terpisah. Tidak ada jaminan murid mendapatkan pekerjaan/penghasilan.
+Uji penggunaan sebelum penjualan
+Minta pemula Android, iPhone dan Windows menguji prompt tanpa unggahan wajib, kegagalan tautan, teks cadangan, latihan, serta pindah chat. Catat hasil nyata; revisi berdasarkan bukti sebelum penjualan.
+Privasi penjualan
+Jangan meminta pembeli mengirim tangkapan layar akun, password atau isi chat pribadi untuk pembuktian kelas. Jika memakai nomor lisensi/akun pembeli, jelaskan aturan privasi dan pemrosesan data.
+CATATAN PENYUNTINGAN
+Edisi ini adalah DRAF komersial: nama penulis/penerbit, nomor ISBN (bila ingin), hak cipta, desain final sampul, harga jual, mekanisme pembaruan, dan uji pembaca harus ditetapkan penerbit sebelum penjualan. Tidak ada pengesahan atau afiliasi dengan OpenAI.

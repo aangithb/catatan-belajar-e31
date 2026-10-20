@@ -1,0 +1,9 @@
+{
+  "version": "E3.1-MURID-20261020-v5",
+  "student_modules": 42,
+  "teacher_only_modules": [
+    "C02",
+    "C07"
+  ],
+  "updated_at_wib": "2026-10-20T13:50:55.325507+07:00"
+}
